@@ -44,7 +44,8 @@
         "description_html": "Miya removes all debuffs on her and conceals herself, gaining 35% extra Movement Speed. This state lasts 2s or until she launches an attack.<br><br>Miya gains full stacks of <font color=\"a6aafb\">Moon Blessing</font> upon leaving the state."
       }
     ],
-    "quote": "The Priestess of the Moon and protector of the Moonlit Forest."
+    "quote": "The Priestess of the Moon and protector of the Moonlit Forest.",
+    "icon": "miya/miya-icon.png"
   },
   {
     "id": 2,
@@ -90,7 +91,8 @@
         "description_html": "Balmond unleashes a huge strike in the target direction (this skill can only be interrupted by Suppression), dealing <font color=\"ffe63c\">True Damage</font> equal to 150<font color=\"fba51f\"> (+70% Total Physical Attack)</font> plus 30% of the target's lost HP.<br><br>This skill only deals up to 1000 damage to non-hero units."
       }
     ],
-    "quote": "The leader of the Orc Legion."
+    "quote": "The leader of the Orc Legion.",
+    "icon": "balmond/balmond-icon.png"
   },
   {
     "id": 3,
@@ -136,7 +138,8 @@
         "description_html": "Saber charges at the target enemy hero, knocking them airborne for 1.2s (unaffected by Resilience) and striking them 3 times over the duration. The first two strikes deal 120<font color=\"fba51f\"> (+100% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> each, while the third strike deals 240<font color=\"fba51f\"> (+200% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>."
       }
     ],
-    "quote": "A swordsman in pursuit of invincibility, used by Laboratory 1718."
+    "quote": "A swordsman in pursuit of invincibility, used by Laboratory 1718.",
+    "icon": "saber/saber-icon.png"
   },
   {
     "id": 4,
@@ -183,7 +186,8 @@
         "description_html": "Alice enters the blood-draining state, consuming 60 Mana while dealing 30<font color=\"62f8fe\"> (+30% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to nearby enemies every 0.5s. She recovers 40<font color=\"62f8fe\"> (+30% Total Magic Power)</font> HP each time she damages an enemy hero (only 50% of that HP for other enemy units).<br><br>Each time this effect damages an enemy hero, the cooldown of <font color=\"a6aafb\">Flowing Blood</font> is reduced by 0.2s and the cooldown of <font color=\"a6aafb\">Blood Awe</font> is reduced by 0.5s."
       }
     ],
-    "quote": "Cunning and sinister Blood Demon Queen."
+    "quote": "Cunning and sinister Blood Demon Queen.",
+    "icon": "alice/alice-icon.png"
   },
   {
     "id": 5,
@@ -229,7 +233,8 @@
         "description_html": "Nana summons Molina to strike the target area 3 times, each time dealing 440<font color=\"62f8fe\"> (+140% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies within and slowing them by 30% for 1s. Enemies hit consecutively will be stunned for 1s."
       }
     ],
-    "quote": "Little Leonin with no worries."
+    "quote": "Little Leonin with no worries.",
+    "icon": "nana/nana-icon.png"
   },
   {
     "id": 6,
@@ -276,7 +281,8 @@
         "description_html": "Tigreal unleashes the power of his hammer, pulling nearby enemies to him and stunning them for 1.8s while dealing 270<font color=\"fba51f\"> (+130% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>.<br><br><font color=\"A4AAC7\">The first half of the channeling can be interrupted by control effects. The second half of the channeling can only be interrupted by Suppression.</font>"
       }
     ],
-    "quote": "Leader of the Light's Order, guardian of the Moniyan Empire."
+    "quote": "Leader of the Light's Order, guardian of the Moniyan Empire.",
+    "icon": "tigreal/tigreal-icon.png"
   },
   {
     "id": 7,
@@ -322,7 +328,8 @@
         "description_html": "<font color=\"a6aafb\">Passive</font>: Alucard permanently gains 10% Hybrid Lifesteal.<br><br><font color=\"a6aafb\">Active</font>: Alucard absorbs the energy of enemies in the target area, reducing their Movement Speed by 30% and Hybrid Defense by 10. Alucard gains 10 Hybrid Defense and reduces the cooldown of his other skills to 50% for 6s.<br><br><font color=\"a6aafb\">Use Again</font>: Alucard releases a shockwave in the target direction, dealing 400<font color=\"fba51f\"> (+200% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit."
       }
     ],
-    "quote": "Demon hunter who detests the darkness."
+    "quote": "Demon hunter who detests the darkness.",
+    "icon": "alucard/alucard-icon.png"
   },
   {
     "id": 8,
@@ -369,7 +376,8 @@
         "description_html": "Karina dashes to the target enemy hero, dealing them 350<font color=\"62f8fe\"> (+160% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>, applying a <font color=\"a6aafb\">Shadow Mark</font> to them, and leaving a <font color=\"a6aafb\">Shadowform</font> behind them. The <font color=\"a6aafb\">Shadow Mark</font> and <font color=\"a6aafb\">Shadowform</font> both last 5s. If the enemy dies within the duration, the cooldown of this skill is reset.<br><br><font color=\"a6aafb\">Use Again</font>: Karina dashes back to the <font color=\"a6aafb\">Shadowform</font>'s location, dealing 150<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies along the way."
       }
     ],
-    "quote": "Killer from the Dark Elf tribe who is fighting to rescue her sister Selena."
+    "quote": "Killer from the Dark Elf tribe who is fighting to rescue her sister Selena.",
+    "icon": "karina/karina-icon.png"
   },
   {
     "id": 9,
@@ -415,7 +423,8 @@
         "description_html": "Akai removes all debuffs on him and spins for 4s, gaining Slow Immunity while continuously dealing 100<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies and knocking them back. Enemy heroes knocked back will knock back other heroes they collide with during the process.<br><br>Akai also gradually increases his Movement Speed by 70% over the duration. This skill can only be interrupted by Suppression."
       }
     ],
-    "quote": "The almighty panda hero of Stream Valley."
+    "quote": "The almighty panda hero of Stream Valley.",
+    "icon": "akai/akai-icon.png"
   },
   {
     "id": 10,
@@ -461,7 +470,8 @@
         "description_html": "Franco suppresses the target enemy hero for 1.8s and strikes them 6 times over the duration, each time dealing 50<font color=\"fba51f\"> (+70% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>."
       }
     ],
-    "quote": "Brave permafrost warrior, Bane's sworn enemy."
+    "quote": "Brave permafrost warrior, Bane's sworn enemy.",
+    "icon": "franco/franco-icon.png"
   },
   {
     "id": 11,
@@ -507,7 +517,8 @@
         "description_html": "Bane summons a school of sharks to charge in the target direction, dealing 600<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"62f8fe\">(+170% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit, knocking them airborne for 0.8s, and slowing them by 75% (decays over 3s).<br>This skill deals 40% damage to turrets."
       }
     ],
-    "quote": "Cruel pirate leader, Franco's sworn enemy."
+    "quote": "Cruel pirate leader, Franco's sworn enemy.",
+    "icon": "bane/bane-icon.png"
   },
   {
     "id": 12,
@@ -554,7 +565,8 @@
         "description_html": "Bruno kicks his Energy Ball at the target enemy hero, dealing 250<font color=\"fba51f\"> (+83% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and knocking them back. The Energy Ball then bounces between nearby enemies up to 10 times, each time dealing 150<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. Each hit also reduces the enemy's Physical Defense by 4% for 8s (up to 3 stacks)."
       }
     ],
-    "quote": "The captain of the Eruditio Rangers that protects the city with his amazing football skills."
+    "quote": "The captain of the Eruditio Rangers that protects the city with his amazing football skills.",
+    "icon": "bruno/bruno-icon.png"
   },
   {
     "id": 13,
@@ -600,7 +612,8 @@
         "description_html": "Clint launches a grenade in the target direction that explodes on the first enemy hit, dealing 280<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and slowing them by 50% for 0.5s.<br><br>Clint gains a grenade charge every 10s (up to 3)."
       }
     ],
-    "quote": "A sharpshooter full of righteousness and justice."
+    "quote": "A sharpshooter full of righteousness and justice.",
+    "icon": "clint/clint-icon.png"
   },
   {
     "id": 14,
@@ -647,7 +660,8 @@
         "description_html": "Rafaela unleashes the true power of <font color=\"a6aafb\">Holy Light</font> in the target direction, dealing 460<font color=\"62f8fe\"> (+120% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in a line and stunning them for 1.2s."
       }
     ],
-    "quote": "An angel loved and respected by the people of this world."
+    "quote": "An angel loved and respected by the people of this world.",
+    "icon": "rafaela/rafaela-icon.png"
   },
   {
     "id": 15,
@@ -692,7 +706,8 @@
         "description_html": "Eudora calls down a blast of lightning on the target enemy, dealing 480<font color=\"62f8fe\"> (+180% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.<br><br>If the enemy is affected by <font color=\"a6aafb\">Superconductor</font>, dark clouds appear over their head and unleash an additional lightning strike on the area after 0.8s, dealing 440<font color=\"62f8fe\"> (+150% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies within and 360<font color=\"62f8fe\"> (+150% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to nearby enemies."
       }
     ],
-    "quote": "Dean of the Ulturia School of the Magic Academy, Light Elf."
+    "quote": "Dean of the Ulturia School of the Magic Academy, Light Elf.",
+    "icon": "eudora/eudora-icon.png"
   },
   {
     "id": 16,
@@ -740,7 +755,8 @@
         "description_html": "Zilong removes all slow effects on himself and gains 40% Movement Speed, 35% Attack Speed, and Slow Immunity for 7.5s.<br><br>For the duration, he can trigger <font color=\"a6aafb\">Dragon Flurry</font> after every 2 Basic Attacks (instead of the previous 3)."
       }
     ],
-    "quote": "Guardian of the Dragon Altar and the Oriental Fighter who inherited the Cloud Dragon's power."
+    "quote": "Guardian of the Dragon Altar and the Oriental Fighter who inherited the Cloud Dragon's power.",
+    "icon": "zilong/zilong-icon.png"
   },
   {
     "id": 17,
@@ -785,7 +801,8 @@
         "description_html": "Fanny leaps at the target enemy hero or Creep with her blades, dealing 400<font color=\"fba51f\"> (+200% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. Each stack of <font color=\"a6aafb\">Prey Mark</font> on the target increases this damage by 30%."
       }
     ],
-    "quote": "A blade dancer in the battlefield."
+    "quote": "A blade dancer in the battlefield.",
+    "icon": "fanny/fanny-icon.png"
   },
   {
     "id": 18,
@@ -832,7 +849,8 @@
         "description_html": "Layla fires a blast of Malefic Energy in the target direction, dealing 500<font color=\"fba51f\"> (+150% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in a line.<br><br><font color=\"a6aafb\">Passive:</font> The range of Layla's <font color=\"a6aafb\">Void Projectile</font> and Basic Attacks is increased by 0.6 units. Her sight range is also slightly increased each time this skill is upgraded."
       }
     ],
-    "quote": "The backbone of the Eruditio Rangers who is also known as the Shining Star."
+    "quote": "The backbone of the Eruditio Rangers who is also known as the Shining Star.",
+    "icon": "layla/layla-icon.png"
   },
   {
     "id": 19,
@@ -878,7 +896,8 @@
         "description_html": "Minotaur enters <font color=\"a6aafb\">Enraged</font> state and smashes the ground 3 times. The first 2 hits deal 180<font color=\"fba51f\"> (+85% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies and slow them by 40%, while the final hit deals 200<font color=\"ffe63c\"> (+85% Total Physical Attack)</font> <font color=\"ffe63c\">True Damage</font> and knocks targets airborne. Minotaur is immune to control effects during this attack.<br><br>The <font color=\"a6aafb\">Enraged</font> state lasts 12s and enhances Minotaur's skills for the duration."
       }
     ],
-    "quote": "Minoan prince determined to restore his homeland."
+    "quote": "Minoan prince determined to restore his homeland.",
+    "icon": "minotaur/minotaur-icon.png"
   },
   {
     "id": 20,
@@ -925,7 +944,8 @@
         "description_html": "Lolita begins charging for 2s while slowing enemies in a fan-shaped area by 50%. When the charging is complete or is stopped, Lolita slams her hammer on the ground, dealing up to 500<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in the area and stunning them for up to 2s (the damage and stun duration are based on the charge time).<br><br><font color=\"a6aafb\">Use Again</font>: Lolita immediately stops charging and slams her hammer on the ground."
       }
     ],
-    "quote": "Member of the Eruditio Rangers and protector of the Leviathan workshop."
+    "quote": "Member of the Eruditio Rangers and protector of the Leviathan workshop.",
+    "icon": "lolita/lolita-icon.png"
   },
   {
     "id": 21,
@@ -971,7 +991,8 @@
         "description_html": "Hayabusa blends into the shadows and launches 6 single-target attacks on enemies in the area, each dealing 140<font color=\"fba51f\"> (+40% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>.<br><br>The attacks prioritize enemies with <font color=\"a6aafb\">Shadow Mark</font> and each will consume a mark to deal 90<font color=\"fba51f\"> (+40% Extra Physical Attack)</font> extra <font color=\"fb1f1f\">Physical Damage</font>. Shadow Kill does not apply <font color=\"a6aafb\">Shadow Mark</font>."
       }
     ],
-    "quote": "The young leader of the Shadow Sect who wields his blade through moonless nights, walking the path of nindo without fear."
+    "quote": "The young leader of the Shadow Sect who wields his blade through moonless nights, walking the path of nindo without fear.",
+    "icon": "hayabusa/hayabusa-icon.png"
   },
   {
     "id": 22,
@@ -1017,7 +1038,8 @@
         "description_html": "Freya gains 6 stacks of <font color=\"a6aafb\">Sacred Orb</font> and enters the <font color=\"a6aafb\">Valkyrie</font> state, gaining a 600<font color=\"fba51f\"> (+180% Total Physical Attack)</font> shield and 30 Physical Attack. Meanwhile, her Basic Attacks become ranged and deal <font color=\"a6aafb\">splash</font> damage. The <font color=\"a6aafb\">Valkyrie</font> state lasts for 10s."
       }
     ],
-    "quote": "The Valkyrie who guards the Northern Vale."
+    "quote": "The Valkyrie who guards the Northern Vale.",
+    "icon": "freya/freya-icon.png"
   },
   {
     "id": 23,
@@ -1062,7 +1084,8 @@
         "description_html": "Gord unleashes an energy beam in the target direction, dealing 110<font color=\"62f8fe\"> (+32% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit every 0.2s (up to 16 times).<br><br>The direction of the beam can be adjusted using the Joystick."
       }
     ],
-    "quote": "Dean of the Icarus School of the Magic Academy."
+    "quote": "Dean of the Icarus School of the Magic Academy.",
+    "icon": "gord/gord-icon.png"
   },
   {
     "id": 24,
@@ -1108,7 +1131,8 @@
         "description_html": "<font color=\"a6aafb\">Passive</font>: Natalia gains 15% extra Crit Chance.<br><br><font color=\"a6aafb\">Active</font>: Natalia immediately enters <font color=\"a6aafb\">Assassin Instinct</font> state. Natalia can store up to 2 charges of her Ultimate and each charge has a recharge time of 30s. Creep kills will reduce the current remaining recharge time by 50% of the full recharge time."
       }
     ],
-    "quote": "An assassin exiled by the Empire."
+    "quote": "An assassin exiled by the Empire.",
+    "icon": "natalia/natalia-icon.png"
   },
   {
     "id": 25,
@@ -1156,7 +1180,8 @@
         "description_html": "Kagura invokes the power of the <font color=\"a6aafb\">Seimei Umbrella</font>, dealing 330<font color=\"62f8fe\"> (+105% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to nearby enemies, knocking them back, and slowing them by 60% for 0.5s."
       }
     ],
-    "quote": "A young spirit born of the deep longings stored within the Seimei Umbrella, she has finally stepped out of her dream, like a radiant bloom, in defiance of the dark night."
+    "quote": "A young spirit born of the deep longings stored within the Seimei Umbrella, she has finally stepped out of her dream, like a radiant bloom, in defiance of the dark night.",
+    "icon": "kagura/kagura-icon.png"
   },
   {
     "id": 26,
@@ -1202,7 +1227,8 @@
         "description_html": "Chou strikes a roundhouse kick at the target enemy hero, dealing them 400<font color=\"fba51f\"> (+200% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and knocking them back.<br><br>Cast the skill again to chase up the target, dealing a total of 480<font color=\"fba51f\"> (+220% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>."
       }
     ],
-    "quote": "A talented fighter with a heart of chivalry."
+    "quote": "A talented fighter with a heart of chivalry.",
+    "icon": "chou/chou-icon.png"
   },
   {
     "id": 27,
@@ -1259,7 +1285,8 @@
         "description_html": "Sun summons a Doppelganger that lasts 8s and inherits 70% of his attributes and a portion of his Attack Effects. The Doppelganger takes increased damage."
       }
     ],
-    "quote": "The immortal Monkey King, resolute and unyielding like the mountain that bore him."
+    "quote": "The immortal Monkey King, resolute and unyielding like the mountain that bore him.",
+    "icon": "sun/sun-icon.png"
   },
   {
     "id": 28,
@@ -1307,7 +1334,8 @@
         "description_html": "Beta dives to the target location, dealing 100<font color=\"fba51f\"> (+20% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit and stunning them for 1s. Alpha then leaps towards the same location, knocking enemies in his path airborne and carrying them to the landing location. Alpha then slams down, dealing 250<font color=\"fba51f\"> (+100% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and slowing the enemies by 40% for 1.5s.<br><br>Beta then attacks the same area 5 times, dealing 15<font color=\"fba51f\"> (+30% Extra Physical Attack)</font> <font color=\"ffe63c\">True Damage</font> each time."
       }
     ],
-    "quote": "A pure cyborg made by Laboratory 1718."
+    "quote": "A pure cyborg made by Laboratory 1718.",
+    "icon": "alpha/alpha-icon.png"
   },
   {
     "id": 29,
@@ -1354,7 +1382,8 @@
         "description_html": "Ruby sweeps her scythe in the target direction, dealing 200<font color=\"fba51f\"> (+200% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit, pulling them toward her, and stunning them for 0.5s."
       }
     ],
-    "quote": "A girl who grew up with Roger's help."
+    "quote": "A girl who grew up with Roger's help.",
+    "icon": "ruby/ruby-icon.png"
   },
   {
     "id": 30,
@@ -1400,7 +1429,8 @@
         "description_html": "<font color=\"a6aafb\">Passive</font>: Increases the damage of <font color=\"a6aafb\">Heavenly Vow's</font> first enhanced Basic Attack by 5 and second enhanced Basic Attack by 15.<br><br><font color=\"a6aafb\">Active</font>: Yi Sun-shin commands the naval fleet to launch 70% waves of cannon shots on the locations of all enemy heroes, revealing their positions and dealing 2 <font color=\"fb1f1f\">Physical Damage</font> to enemies in the area with each wave. (When a target is hit multiple times by the same wave, a maximum of 20% damage will be dealt.)"
       }
     ],
-    "quote": "Leader of the City of the Dragon Fleet."
+    "quote": "Leader of the City of the Dragon Fleet.",
+    "icon": "yi_sun_shin/yi_sun_shin-icon.png"
   },
   {
     "id": 31,
@@ -1447,7 +1477,8 @@
         "description_html": "After a short delay, Moskov throws the <font color=\"a6aafb\">Spear of Destruction</font> in the target direction, dealing 340<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in its path and to the first enemy hero hit. Upon hitting an enemy hero, the spear pierces them, dealing 10% extra <font color=\"fb1f1f\">Physical Damage</font> to enemies behind them. The target and enemies hit by the piercing damage will be slowed by 50% for 1s (the slow duration scales with the spear's travel time, up to 3s).<br><br>When <font color=\"a6aafb\">Spear of Destruction</font> hits the first enemy hero, it creates a shadow behind them and refreshes the cooldown of <font color=\"a6aafb\">Abyss Walker</font>.<br><br><font color=\"a6aafb\">Use Again</font>: Moskov casts <font color=\"a6aafb\">Abyss Walker</font> from the shadow's location (shares the same cooldown as the skill)."
       }
     ],
-    "quote": "A warrior of the desert that embraced the darkness to seek his revenge."
+    "quote": "A warrior of the desert that embraced the darkness to seek his revenge.",
+    "icon": "moskov/moskov-icon.png"
   },
   {
     "id": 32,
@@ -1494,7 +1525,8 @@
         "description_html": "<font color=\"a6aafb\">Passive</font>: Johnson's Physical Defense is increased by 10%.<br>Johnson transforms into a car. An allied hero can use <font color=\"a6aafb\">Hop In</font> when near Johnson to board the car (only 1 allied hero can ride with Johnson). The car will explode upon hitting an enemy hero, dealing 300<font color=\"62f8fe\"> (+160% Total Magic Power)</font>-450<font color=\"62f8fe\"> (+280% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to nearby enemies, stunning them for 0.5-1s (scales with driving time), and creating an electrified zone at the location. The zone continuously deals 60<font color=\"62f8fe\"> (+20% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and slows enemies within. Johnson's location will be revealed to the enemy for 3s when casting this skill."
       }
     ],
-    "quote": "A super cyborg who can transform into a car and lead his teammates into battle."
+    "quote": "A super cyborg who can transform into a car and lead his teammates into battle.",
+    "icon": "johnson/johnson-icon.png"
   },
   {
     "id": 33,
@@ -1539,7 +1571,8 @@
         "description_html": "Cyclops creates a Planetary Sphere and sends it after the target enemy hero or Creep, dealing 500<font color=\"62f8fe\"> (+120% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and immobilizing them for 0.75-1.5s (increases with travel distance)."
       }
     ],
-    "quote": "A celestial traveler in the universe."
+    "quote": "A celestial traveler in the universe.",
+    "icon": "cyclops/cyclops-icon.png"
   },
   {
     "id": 34,
@@ -1586,7 +1619,8 @@
         "description_html": "Estes casts an enhanced <font color=\"a6aafb\">\"Moonlight Immersion\"</font> on all nearby allied heroes. Within the next 8s, <font color=\"a6aafb\">\"Moonlight Immersion\"</font> will be enhanced and Estes will continuously recover 1020<font color=\"62f8fe\"> (+225% Total Magic Power)</font> HP."
       }
     ],
-    "quote": "Elf King who rules the Moon Elves."
+    "quote": "Elf King who rules the Moon Elves.",
+    "icon": "estes/estes-icon.png"
   },
   {
     "id": 35,
@@ -1633,7 +1667,8 @@
         "description_html": "Hilda launches a powerful slash on the target enemy, dealing 600<font color=\"fba51f\"> (+250% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and stunning them for 0.2s. Nearby enemies also take 60% damage. Each stack of <font color=\"a6aafb\">Wilderness Mark</font> makes <font color=\"a6aafb\">Power of Wildness</font> deal 2.5% of the target's Max HP as extra damage. At max stacks, <font color=\"a6aafb\">Power of Wildness</font> deals 20% of the target's Max HP as extra damage."
       }
     ],
-    "quote": "Inheritor of the Power of the Megalith."
+    "quote": "Inheritor of the Power of the Megalith.",
+    "icon": "hilda/hilda-icon.png"
   },
   {
     "id": 36,
@@ -1680,7 +1715,8 @@
         "description_html": "Aurora creates a frost path in the target direction, dealing 100<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in the path and reducing their Movement Speed by 80% for 1.2s. The frost path gradually becomes glaciers that spread until reaching their maximum size and shattering, dealing 600<font color=\"62f8fe\"> (+150% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to all enemies in the area and freezing targets for 1s. Every 100 Magic Power that Aurora has will increase the freeze duration by 0.2s."
       }
     ],
-    "quote": "The Maiden of the Glacier who grants eternal remembrance in the legends of the North."
+    "quote": "The Maiden of the Glacier who grants eternal remembrance in the legends of the North.",
+    "icon": "aurora/aurora-icon.png"
   },
   {
     "id": 37,
@@ -1727,7 +1763,8 @@
         "description_html": "Lapu-Lapu leaps to the target location while combining his twin blades into one, dealing 300<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies upon landing and slowing them by 60% for 1s. (This skill cannot be interrupted.)<br>Lapu-Lapu gains 3 times the <font color=\"a6aafb\">Bravery Blessing</font> from this skill and skills in transformed state.<br>For the next 10s, Lapu-Lapu enters <font color=\"a6aafb\">Great Sword</font> stance and gains enhanced skills, 30 extra Physical &amp; Magic Defense, and his Basic Attack damage is increased to 120%."
       }
     ],
-    "quote": "Hero who defends the Vonetis Islands from outsiders"
+    "quote": "Hero who defends the Vonetis Islands from outsiders",
+    "icon": "lapu_lapu/lapu_lapu-icon.png"
   },
   {
     "id": 38,
@@ -1773,7 +1810,8 @@
         "description_html": "Vexana summons an <font color=\"a6aafb\">Eternal Guard</font> at the target location, dealing 500<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit and knocking them airborne for 0.6s. The <font color=\"a6aafb\">Eternal Guard</font> then joins Vexana in battle for 15s. Each of the Eternal Guard's attacks deals 225<font color=\"62f8fe\"> (+40% Total Magic Power)</font> plus 5% of the target's Max HP as <font color=\"7f62fe\">Magic Damage</font> to enemies in a large area."
       }
     ],
-    "quote": "The young duchess guarding Necrokeep."
+    "quote": "The young duchess guarding Necrokeep.",
+    "icon": "vexana/vexana-icon.png"
   },
   {
     "id": 39,
@@ -1819,7 +1857,8 @@
         "description_html": "Roger lunges in the target direction and turns into wolf form, dealing 150<font color=\"fba51f\"> (+100% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit and slowing them by 90% for 0.8s.<br><br><font color=\"a6aafb\">Passive</font>: In wolf form, Roger gains 20 Physical &amp; Magic Defense and 25 Movement Speed."
       }
     ],
-    "quote": "A werewolf wandering in the dark forest longing for revenge."
+    "quote": "A werewolf wandering in the dark forest longing for revenge.",
+    "icon": "roger/roger-icon.png"
   },
   {
     "id": 40,
@@ -1866,7 +1905,8 @@
         "description_html": "Karrie enters <font color=\"a6aafb\">Dual Wield</font> state for 10s, during which she gains 20% Movement Speed and throws two lightwheels with each Basic Attack, each dealing 40<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and inheriting a portion of Attack Effects."
       }
     ],
-    "quote": "Indifferent and powerful Yasson."
+    "quote": "Indifferent and powerful Yasson.",
+    "icon": "karrie/karrie-icon.png"
   },
   {
     "id": 41,
@@ -1914,7 +1954,8 @@
         "description_html": "Gatotkaca jumps to the target location, dealing 500<font color=\"62f8fe\"> (+300% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to nearby enemies and knocking them airborne for 1s. Enemies near the center of the area will be knocked airborne for a longer duration, while enemies on the fringes will be pulled to the center.<br><br>The camera will move with the skill indicator but won't grant extra sight."
       }
     ],
-    "quote": "Warrior from the Arcadhem universe."
+    "quote": "Warrior from the Arcadhem universe.",
+    "icon": "gatotkaca/gatotkaca-icon.png"
   },
   {
     "id": 42,
@@ -1961,7 +2002,8 @@
         "description_html": "Harley casts a magic ring of fire at an enemy hero, dealing 200<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and slowing them by 40% for 1.5s. The ring will stay around the target, during which Harley can hit the ring to damage the target. The ring will explode after 4s, dealing <font color=\"7f62fe\">Magic Damage</font> equal to 200<font color=\"62f8fe\"> (+50% Total Magic Power)</font> plus 30% of the damage taken by the target while the ring was active.<br><br><font color=\"A4AAC7\">The ring of fire can be blocked by other enemy heroes before it reaches its target.</font>"
       }
     ],
-    "quote": "The young mage whose powers awakened once thrust into danger and who now arrives at the Magic Academy to study."
+    "quote": "The young mage whose powers awakened once thrust into danger and who now arrives at the Magic Academy to study.",
+    "icon": "harley/harley-icon.png"
   },
   {
     "id": 43,
@@ -2008,7 +2050,8 @@
         "description_html": "Irithel orders Leo to leap in the target direction and empowers her crossbow for 10s. For the duration, she gains 30 Movement Speed and her Basic Attacks shoot enhanced crossbow bolts, dealing 120<font color=\"fba51f\"> (+65% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the target and nearby units. <font color=\"a6aafb\">Jungle Heart</font> also accumulates faster for the duration."
       }
     ],
-    "quote": "The forest hunter with a smilodon."
+    "quote": "The forest hunter with a smilodon.",
+    "icon": "irithel/irithel-icon.png"
   },
   {
     "id": 44,
@@ -2055,7 +2098,8 @@
         "description_html": "Grock charges in the target direction, dealing 360<font color=\"fba51f\"> (+75% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in his path and knocking them airborne.<br><br>If he hits a wall or turret during the charge, he deals an additional 360<font color=\"fba51f\"> (+90% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies and stuns them for 1.8s."
       }
     ],
-    "quote": "Stone man awakened from sleep."
+    "quote": "Stone man awakened from sleep.",
+    "icon": "grock/grock-icon.png"
   },
   {
     "id": 45,
@@ -2102,7 +2146,8 @@
         "description_html": "Argus removes all debuffs on himself (except for Suppression) and enters <font color=\"a6aafb\">Eternal Evil</font> state, gaining <font color=\"a6aafb\">Death Immunity</font> for 4s. While in this state, 40% of his damage dealt to enemy heroes will be converted into HP for him once the state ends.<br><br>Leaving the <font color=\"a6aafb\">Eternal Evil</font> state also resets enemy Turrets' damage increase against Argus.]<br><br><font color=\"a6aafb\">Passive:</font> Permanently increases the recharge of <font color=\"a6aafb\">Malice Energy</font> by 150<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"a6aafb\">per second</font>."
       }
     ],
-    "quote": "The angel who fell from light into darkness."
+    "quote": "The angel who fell from light into darkness.",
+    "icon": "argus/argus-icon.png"
   },
   {
     "id": 46,
@@ -2149,7 +2194,8 @@
         "description_html": "Odette begins to dance, gaining a 1400<font color=\"62f8fe\"> (+150% Total Magic Power)</font> shield while dealing up to 2400<font color=\"62f8fe\"> (+900% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in a large area around her for 5s. The bounce speed and frequency of <font color=\"a6aafb\">Lakeshore Ambience</font>'s sound wave in the area are also enhanced when the skill is active.<br>Use again while the skill is active to dash in the target direction.<br><font color=\"A4AAC7\">The skill is a channeling cast and will be interrupted if Odette is hit by high level control effects (knocked airborne, transformed, etc.) or if she performs another action.</font>"
       }
     ],
-    "quote": "Innocent princess that grew up in the Swan Castle and genius mage that excels in sword and scepter."
+    "quote": "Innocent princess that grew up in the Swan Castle and genius mage that excels in sword and scepter.",
+    "icon": "odette/odette-icon.png"
   },
   {
     "id": 47,
@@ -2196,7 +2242,8 @@
         "description_html": "After a short delay, Lancelot performs an executioner's strike in the target direction, dealing 350<font color=\"fba51f\"> (+170% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit. He is invincible throughout the process."
       }
     ],
-    "quote": "Prodigal son and genius swordsman of House Baroque."
+    "quote": "Prodigal son and genius swordsman of House Baroque.",
+    "icon": "lancelot/lancelot-icon.png"
   },
   {
     "id": 48,
@@ -2243,7 +2290,8 @@
         "description_html": "Diggie removes all debuffs on nearby allied heroes (including himself) and grants them a 650<font color=\"62f8fe\"> (+300% Total Magic Power)</font> shield and Control Immunity for 2s. He also gains 50% Movement Speed for 0.5s."
       }
     ],
-    "quote": "The owl scholar who can control time."
+    "quote": "The owl scholar who can control time.",
+    "icon": "diggie/diggie-icon.png"
   },
   {
     "id": 49,
@@ -2290,7 +2338,8 @@
         "description_html": "Hylos creates a huge pathway in the target direction, reducing enemies' Movement Speed by 75% for 1s. The pathway lasts 6s.<br>When on the pathway, Hylos gains Slow Immunity and recovers 3% of his Max HP per second. Allied heroes moving along the pathway gain 60% extra Movement Speed, while enemy heroes on the pathway will be slowed by 25%."
       }
     ],
-    "quote": "Centaur guarding the Misty Mountains."
+    "quote": "Centaur guarding the Misty Mountains.",
+    "icon": "hylos/hylos-icon.png"
   },
   {
     "id": 50,
@@ -2346,7 +2395,8 @@
         "description_html": "Zhask selects a designated position to summon <font color=\"a6aafb\">Nightmaric Spawn</font> and fuses with it. Nightmaric Spawn can inherit 100% of his attributes and get extra of them. His skills are enhanced during the fusion period.<br><br><font color=\"a6aafb\">Use Again</font>: Zhask immediately gets off <font color=\"a6aafb\">Nightmaric Spawn</font> and loses enhancement."
       }
     ],
-    "quote": "King of the Swarm who disrupts the balance of the universe."
+    "quote": "King of the Swarm who disrupts the balance of the universe.",
+    "icon": "zhask/zhask-icon.png"
   },
   {
     "id": 51,
@@ -2392,7 +2442,8 @@
         "description_html": "Helcurt summons the Dark Night, reducing all enemies' sight range and making them lose sight of their allies for 3s. During Dark Night, Helcurt gains 40% extra Movement Speed.<br><br>The Dark Night makes it easier for Helcurt to leave enemies' sight range."
       }
     ],
-    "quote": "The nightmare of the Abyss who's willing to betray anyone in order to survive."
+    "quote": "The nightmare of the Abyss who's willing to betray anyone in order to survive.",
+    "icon": "helcurt/helcurt-icon.png"
   },
   {
     "id": 52,
@@ -2448,7 +2499,8 @@
         "description_html": "Pharsa turns into mist and wraps herself around Verri, gaining 150% extra Movement Speed (decreasing over time) and the ability to fly over terrain. This state lasts up to 5s or until she uses a Basic Attack or skills, or is controlled.<br><br>The skill's cooldown is reduced by 0s each time Pharsa levels up."
       }
     ],
-    "quote": "Crow Princess of Askati Forest."
+    "quote": "Crow Princess of Askati Forest.",
+    "icon": "pharsa/pharsa-icon.png"
   },
   {
     "id": 53,
@@ -2493,7 +2545,8 @@
         "description_html": "Lesley locks onto the target enemy hero and fires 4 Fatal Bullets in succession, each dealing <font color=\"fb1f1f\">Physical Damage</font> equal to 250<font color=\"fba51f\"> (+80% Extra Physical Attack)</font> plus 5% of their lost HP and restoring 10 energy on hit. The Bullets can be blocked by other enemy heroes.<br><br>If this skill is interrupted, each remaining Bullet reduces the skill cooldown by 10%.<br><br><font color=\"a6aafb\">Passive</font>: Lesley's Crit Chance is increased by 10%."
       }
     ],
-    "quote": "Adopted daughter of House Vance, a clandestine sniper."
+    "quote": "Adopted daughter of House Vance, a clandestine sniper.",
+    "icon": "lesley/lesley-icon.png"
   },
   {
     "id": 54,
@@ -2539,7 +2592,8 @@
         "description_html": "Jawhead charges into the target enemy hero, dealing 350<font color=\"fba51f\"> (+150% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and briefly stunning them. Enemies around the target are knocked back and dealt the same amount of damage. Jawhead is immune to control effects during the charge."
       }
     ],
-    "quote": "Intelligent robot used to protect little Ailee."
+    "quote": "Intelligent robot used to protect little Ailee.",
+    "icon": "jawhead/jawhead-icon.png"
   },
   {
     "id": 55,
@@ -2586,7 +2640,8 @@
         "description_html": "Angela begins channeling, applying a 800<font color=\"62f8fe\"> (+250% Total Magic Power)</font> shield that lasts 6s to the target allied hero regardless of distance. After the channeling is complete, she attaches herself to the allied hero for 12s, during which she can cast skills at zero Mana cost.<br>Angela can cast this skill again to cancel the channeling or detach herself from the allied hero. The attaching state will end early if the allied hero is killed."
       }
     ],
-    "quote": "Artificial human made in Laboratory 1718."
+    "quote": "Artificial human made in Laboratory 1718.",
+    "icon": "angela/angela-icon.png"
   },
   {
     "id": 56,
@@ -2634,7 +2689,8 @@
         "description_html": "Gusion dashes to the target location, resetting the cooldowns of <font color=\"a6aafb\">Sword Spike</font> and <font color=\"a6aafb\">Shadowblade Slaughter</font>. If <font color=\"a6aafb\">Shadowblade Slaughter</font> was cast once before the reset, Gusion can throw another five daggers on his next <font color=\"a6aafb\">Shadowblade Slaughter</font> cast, and recall a total of ten daggers afterward.<br><br><font color=\"a6aafb\">Use Again</font>: Gusion dashes a short distance in the target direction."
       }
     ],
-    "quote": "Rebellious son of House Paxley."
+    "quote": "Rebellious son of House Paxley.",
+    "icon": "gusion/gusion-icon.png"
   },
   {
     "id": 57,
@@ -2682,7 +2738,8 @@
         "description_html": "Valir removes all existing debuffs on him, gains 40% Movement Speed that decays over 3s, and conjures 4 <font color=\"a6aafb\">Vengeance Flames</font>, enhancing <font color=\"a6aafb\">Burst Fireball</font> and <font color=\"a6aafb\">Searing Torrent</font> for 9s."
       }
     ],
-    "quote": "Heir to Fire Throat, fire mage."
+    "quote": "Heir to Fire Throat, fire mage.",
+    "icon": "valir/valir-icon.png"
   },
   {
     "id": 58,
@@ -2729,7 +2786,8 @@
         "description_html": "Martis lunges at a designated enemy hero, dealing 800<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> (deals True Damage if the enemy's HP is below 50%).<br>If the enemy is killed by this skill, Martis can cast the skill again within 10s and gains 100% extra Movement Speed that gradually decays over 5s. Each successive cast also increases the skill's damage by 15% (up to 30%)."
       }
     ],
-    "quote": "Persistent and victorious Asura King."
+    "quote": "Persistent and victorious Asura King.",
+    "icon": "martis/martis-icon.png"
   },
   {
     "id": 59,
@@ -2776,7 +2834,8 @@
         "description_html": "Uranus unleashes the energy stored within his body, removing slow effects on himself, recovering 200 HP, and gaining 60% Movement Speed for 8s (decays over time).<br><br>Uranus directly gains 5 stacks of Radiance, increasing shields received and HP Regen by 20% for 8s."
       }
     ],
-    "quote": "Guardian made from lightning and air, guards the Celestial Palace."
+    "quote": "Guardian made from lightning and air, guards the Celestial Palace.",
+    "icon": "uranus/uranus-icon.png"
   },
   {
     "id": 60,
@@ -2822,7 +2881,8 @@
         "description_html": "Hanabi throws Higanbana in the targeted direction, dealing 300<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the first enemy hero hit and immobilizing them for 0.8s. After 1s, Higanbana will bloom at the location of the first hit, dealing 300<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies. Subsequent hits on the same target decay to 30% damage."
       }
     ],
-    "quote": "Leader of the Scarlet Sect, in the Scarlet Shadow of the Cadia Riverlands."
+    "quote": "Leader of the Scarlet Sect, in the Scarlet Shadow of the Cadia Riverlands.",
+    "icon": "hanabi/hanabi-icon.png"
   },
   {
     "id": 61,
@@ -2868,7 +2928,8 @@
         "description_html": "Chang'e fires 30 meteors in the target direction over 4s, each dealing 60<font color=\"62f8fe\"> (+21% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to the first enemy hit. This skill deals 100% extra damage to Minions and Creeps. Chang'e also gains 10% Movement Speed for the duration.<br><br><font color=\"a6aafb\">Crescent Moon</font>: The <font color=\"a6aafb\">Crescent Moon</font> also fires meteors along with Chang'e, each dealing 21% damage."
       }
     ],
-    "quote": "Naughty and cute disciple of the Great Dragon."
+    "quote": "Naughty and cute disciple of the Great Dragon.",
+    "icon": "change/change-icon.png"
   },
   {
     "id": 62,
@@ -2915,7 +2976,8 @@
         "description_html": "Kaja deals 200<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to a designated enemy hero, suppresses and <font color=\"a6aafb\">paralyzes</font> them for 1.5s.<br><br>During the suppression, Kaja can drag the enemy hero along with him."
       }
     ],
-    "quote": "Leader of Nazar who guards the Celestial Palace."
+    "quote": "Leader of Nazar who guards the Celestial Palace.",
+    "icon": "kaja/kaja-icon.png"
   },
   {
     "id": 63,
@@ -2962,7 +3024,8 @@
         "description_html": "Selena enters Abyssal Form and gains 20% Movement Speed for 0.8s. This also immediately resets the cooldown of <font color=\"a6aafb\">Soul Eater</font> and <font color=\"a6aafb\">Garotte</font>."
       }
     ],
-    "quote": "Dark Elf girl who fell into the Abyss."
+    "quote": "Dark Elf girl who fell into the Abyss.",
+    "icon": "selena/selena-icon.png"
   },
   {
     "id": 64,
@@ -3009,7 +3072,8 @@
         "description_html": "Aldous gains vision of all enemy heroes for 5s. During this time, if Aldous uses this skill again, he can dash toward an enemy hero. When Aldous hits that enemy hero, he will deal <font color=\"fb1f1f\">Physical Damage</font> equal to 250 plus 8% of the target's Max HP and knock back the target for 1s. (Aldous can interrupt target's Recall during the dash.)"
       }
     ],
-    "quote": "The guardian of the Minoan Labyrinth."
+    "quote": "The guardian of the Minoan Labyrinth.",
+    "icon": "aldous/aldous-icon.png"
   },
   {
     "id": 65,
@@ -3056,7 +3120,8 @@
         "description_html": "Claude and <font color=\"a6aafb\">Dexter</font> rapidly fire at nearby enemies for 3s, dealing 140<font color=\"fba51f\"> (+10% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to up to two enemies with each shot (these attacks count as Basic Attacks). Claude also gains a 20<font color=\"fba51f\"> (+3% Total Physical Attack)</font> shield each time the Ultimate deals damage to an enemy."
       }
     ],
-    "quote": "An excellent thief who comes and goes without a trace."
+    "quote": "An excellent thief who comes and goes without a trace.",
+    "icon": "claude/claude-icon.png"
   },
   {
     "id": 66,
@@ -3103,7 +3168,8 @@
         "description_html": "Vale summons a windstorm at the target location, dealing a total of 150<font color=\"62f8fe\"> (+30% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in the area and slowing them by 20% while continuously pulling them into its center. After 1s, the windstorm will explode, dealing 1000<font color=\"62f8fe\"> (+240% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.<br><br>The remaining whirlwinds will also be pulled into the center."
       }
     ],
-    "quote": "The heir to Wind Fort, a wind mage."
+    "quote": "The heir to Wind Fort, a wind mage.",
+    "icon": "vale/vale-icon.png"
   },
   {
     "id": 67,
@@ -3150,7 +3216,8 @@
         "description_html": "Leomord summons <font color=\"a6aafb\">Barbiel</font> to rush to him, knocking back and dealing 100<font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to all enemies in its path.<br>If <font color=\"a6aafb\">Barbiel</font> comes in contact with Leomord, they will enter the Mounted State, gaining 50% Movement Speed that decays over 2s.<br><font color=\"a6aafb\">Mounted State</font>: Leomord gains a brand-new set of skills, and his Basic Attack can be used while moving and hits a circular area to deal AOE damage. Leomord also gains 70 Movement Speed and 30 Physical &amp; Magic Defense."
       }
     ],
-    "quote": "A sworn knight who vowed to guard Necrokeep until his last breath."
+    "quote": "A sworn knight who vowed to guard Necrokeep until his last breath.",
+    "icon": "leomord/leomord-icon.png"
   },
   {
     "id": 68,
@@ -3206,7 +3273,8 @@
         "description_html": "Lunox is twisted by the powers of Chaos and Order.<br><br>When Lunox uses <font color=\"a6aafb\">Power of Order</font>, she gains <font color=\"a6aafb\">Brilliance</font> and becomes invincible while dealing continuous damage to nearby enemies. <br><br>When Lunox uses <font color=\"a6aafb\">Power of Chaos</font>, she gains <font color=\"a6aafb\">Darkening</font> and can blink in a target direction and greatly reduces the cooldown of <font color=\"a6aafb\">Chaos Assault</font> for a brief period."
       }
     ],
-    "quote": "A miraculous creature born in Twilight Orb."
+    "quote": "A miraculous creature born in Twilight Orb.",
+    "icon": "lunox/lunox-icon.png"
   },
   {
     "id": 69,
@@ -3252,7 +3320,8 @@
         "description_html": "Hanzo charges into battle as <font color=\"a6aafb\">Hanekage</font>, consuming 17 Energy per second. He gains 2 Energy when a non-hero unit dies nearby and 20 Energy when it's a hero. After consuming all his Energy, Hanzo's body will be slowly drawn to Hanekage's current position.<br>While in Hanekage form, Hanzo's body is invincible, and Hanekage ignores obstacles and gains 50% Movement Speed (decays over time) and 30% Attack Speed.<br>After being killed, <font color=\"a6aafb\">Hanekage</font> will be immediately drawn to Hanzo's position, during which he recovers 16% HP and cannot be targeted. This effect is also triggered when the skill is cast again. If <font color=\"a6aafb\">Hanekage</font> is killed, Hanzo will be slowed by 50% and reveal his location for 6s."
       }
     ],
-    "quote": "Genius ninja in the Shadow Sect who is at the crossroads."
+    "quote": "Genius ninja in the Shadow Sect who is at the crossroads.",
+    "icon": "hanzo/hanzo-icon.png"
   },
   {
     "id": 70,
@@ -3299,7 +3368,8 @@
         "description_html": "Belerick conjures spreading vines around him, dealing 100<font color=\"62f8fe\"> (+30% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in the area 4 times, taunting and slowing them for 1.5s."
       }
     ],
-    "quote": "A kind and fraternal elemental creature."
+    "quote": "A kind and fraternal elemental creature.",
+    "icon": "belerick/belerick-icon.png"
   },
   {
     "id": 71,
@@ -3346,7 +3416,8 @@
         "description_html": "After a period of charging, Kimmy launches a Luminous Chemical Attack in a designated direction. The projectile will explode upon hitting an enemy or reaching the maximum range, dealing 150<font color=\"fba51f\"> (+45% Total Physical Attack)</font> <font color=\"62f8fe\">(+54% Total Magic Power)</font>-75% <font color=\"7f62fe\">Magic Damage</font> to the primary target (scales with charging time) and 1 damage to nearby enemies."
       }
     ],
-    "quote": "Born into a military family, she earned recognition through her own merit as the bold yet laid-back \"tough girl\" of the Border Guard."
+    "quote": "Born into a military family, she earned recognition through her own merit as the bold yet laid-back \"tough girl\" of the Border Guard.",
+    "icon": "kimmy/kimmy-icon.png"
   },
   {
     "id": 72,
@@ -3393,7 +3464,8 @@
         "description_html": "Thamuz spouts the lava stored in his body, dealing 300<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies and creating a <font color=\"a6aafb\">Cauterant Zone</font> around him. The <font color=\"a6aafb\">Cauterant Zone</font> lasts 9s and deals 30<font color=\"fba51f\"> (+10% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> every 0.5s to enemies in the area.<br>Meanwhile, Thamuz gains 500 extra Max HP, heals himself by the same amount, and increases his Attack Speed by 1.3 times. He also recovers 1.5% Max HP each time he deals damage with Basic Attacks or his <font color=\"a6aafb\">Scythes</font>."
       }
     ],
-    "quote": "King of the Fire Demons."
+    "quote": "King of the Fire Demons.",
+    "icon": "thamuz/thamuz-icon.png"
   },
   {
     "id": 73,
@@ -3439,7 +3511,8 @@
         "description_html": "Harith uses his Key to summon the Zaman Force. When the multidimensional rift appears, the cooldown of <font color=\"a6aafb\">Chrono Dash</font> is reduced by 4s. The rift initially slows enemy heroes in the area by 50%, and will continuously slow enemy heroes by 15% afterwards.<br>If Harith comes into contact with the rift using <font color=\"a6aafb\">Chrono Dash</font>, he will absorb the energy within and reduce the cooldown of <font color=\"a6aafb\">Synchro Fission</font> by 1s and <font color=\"a6aafb\">Chrono Dash</font> by 3s.<br>Harith gains 15% Resilience while on the rift."
       }
     ],
-    "quote": "Leonin boy who came to the Moniyan Empire from Azrya."
+    "quote": "Leonin boy who came to the Moniyan Empire from Azrya.",
+    "icon": "harith/harith-icon.png"
   },
   {
     "id": 74,
@@ -3487,7 +3560,8 @@
         "description_html": "Minsitthar charges forward and calls 4 Royal Guards to form a field around him. The Royal Guards cannot move but will attack enemies in the field and deal <font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to them.<br>Enemies in the field are slowed by 20% and cannot use movement skills."
       }
     ],
-    "quote": "A young king that led the people of Mahar Pura to victory against invaders."
+    "quote": "A young king that led the people of Mahar Pura to victory against invaders.",
+    "icon": "minsitthar/minsitthar-icon.png"
   },
   {
     "id": 75,
@@ -3534,7 +3608,8 @@
         "description_html": "Kadita dives into the ground and sends ocean waves in all directions (this skill can only be interrupted by Suppression), each dealing 270<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit and slowing them by 30%. Enemies hit by multiple waves take increased damage. After a short period, the waves return to Kadita, each dealing 180<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit.<br><br>When underground, Kadita becomes untargetable and gains 60% Movement Speed."
       }
     ],
-    "quote": "Beautiful and powerful mermaid queen."
+    "quote": "Beautiful and powerful mermaid queen.",
+    "icon": "kadita/kadita-icon.png"
   },
   {
     "id": 76,
@@ -3581,7 +3656,8 @@
         "description_html": "Faramis turns his surroundings into the <font color=\"a6aafb\">Nether Realm</font> for 6s, making affected allied heroes (including himself) enter the <font color=\"a6aafb\">Specter</font> state and granting them 400 plus 10<font color=\"62f8fe\"> (+5% Total Magic Power)</font>% extra HP and 50% extra Movement Speed for 1s. When the <font color=\"a6aafb\">Specter</font> state breaks, the hero will clear all debuffs and enter a brief Resurrection state for 1.3s. An allied hero's <font color=\"a6aafb\">Specter</font> state ends when they leave the <font color=\"a6aafb\">Nether Realm</font>."
       }
     ],
-    "quote": "A necromancer in Necrokeep who's determined to find a cure for the Mist."
+    "quote": "A necromancer in Necrokeep who's determined to find a cure for the Mist.",
+    "icon": "faramis/faramis-icon.png"
   },
   {
     "id": 77,
@@ -3629,7 +3705,8 @@
         "description_html": "Badang throws a flurry of punches in the target direction, dealing 60<font color=\"fba51f\"> (+54% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit multiple times (can trigger attack effects). The <font color=\"a6aafb\">Fist Wind</font> generated by the punches will explode upon hitting an obstacle, dealing 30<font color=\"fba51f\"> (+27% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies.<br>Badang is immune to control effects for the duration."
       }
     ],
-    "quote": "Island hero who gained supernatural power after defeating the water monster."
+    "quote": "Island hero who gained supernatural power after defeating the water monster.",
+    "icon": "badang/badang-icon.png"
   },
   {
     "id": 78,
@@ -3677,7 +3754,8 @@
         "description_html": "Khufra pushes back all enemy targets around him toward his front (this skill can only be interrupted by Suppression), dealing 300<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and slowing them down for 1.25s. If the enemies are knocked against walls, extra <font color=\"fb1f1f\">Physical Damage</font> equal to 150% of this skill's damage will be inflicted upon them, and they will be stunned, instead of slowed."
       }
     ],
-    "quote": "Sealed ancient tyrant."
+    "quote": "Sealed ancient tyrant.",
+    "icon": "khufra/khufra-icon.png"
   },
   {
     "id": 79,
@@ -3724,7 +3802,8 @@
         "description_html": "Granger immediately reloads and fires a cannon shot in the target direction with the super cannon hidden in his violin case. The cannon shot will pass through Minions and explode upon hitting an enemy hero, dealing <font color=\"fb1f1f\">Physical Damage</font> equal to 150<font color=\"fba51f\"> (+110% Total Physical Attack)</font> plus 12% of the target's lost HP to enemies in the area and slowing them by 80%. Granger can fire the super cannon 3 times at the cost of 2 bullets per shot, and can move once in the target direction after each shot. When <font color=\"a6aafb\">Death Sonata</font> ends, its cooldown will be reduced by 15% for every 2 bullets remaining."
       }
     ],
-    "quote": "A mysterious demon hunter that operates outside the conventions of the Church of Light. Always seen with a violin case in hand, he hunts down demons with his two soul-devouring weapons."
+    "quote": "A mysterious demon hunter that operates outside the conventions of the Church of Light. Always seen with a violin case in hand, he hunts down demons with his two soul-devouring weapons.",
+    "icon": "granger/granger-icon.png"
   },
   {
     "id": 80,
@@ -3772,7 +3851,8 @@
         "description_html": "Guinevere creates a force field around her, gaining Control Immunity while attacking nearby enemies 11 times within 2s, dealing 880<font color=\"62f8fe\"> (+385% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> in total.<br>Airborne enemies hit will be knocked airborne again, up to 8 additional times."
       }
     ],
-    "quote": "Aristocratic girl with a strange temperament, loved by her elder brother Lancelot."
+    "quote": "Aristocratic girl with a strange temperament, loved by her elder brother Lancelot.",
+    "icon": "guinevere/guinevere-icon.png"
   },
   {
     "id": 81,
@@ -3820,7 +3900,8 @@
         "description_html": "Esmeralda coheres the power of Astrospace into her two weapons - Stardust and Frostmoon. The longer this skill is channeled, the longer the cast range.<br><br><font color=\"a6aafb\">Use Again</font>: Esmeralda casts Stardust at the target location, dealing 350<font color=\"fba51f\"> (+90% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>, and then blinks to the target location and casts Frostmoon, dealing 350<font color=\"62f8fe\"> (+140% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and immobilizing enemies in the area for 1s."
       }
     ],
-    "quote": "A mysterious astrologer."
+    "quote": "A mysterious astrologer.",
+    "icon": "esmeralda/esmeralda-icon.png"
   },
   {
     "id": 82,
@@ -3867,7 +3948,8 @@
         "description_html": "Terizla jumps to the designated area, dealing 300<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and knocking enemies airborne for 0.6s. He then summons Scaffold and slows enemies by 25%. Scaffold will send out a hook at enemy heroes in range and pull them several times while dealing 150<font color=\"fba51f\"> (+30% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> each time."
       }
     ],
-    "quote": "Once an eccentric master smith, but now an avenger siding with the Abyss."
+    "quote": "Once an eccentric master smith, but now an avenger siding with the Abyss.",
+    "icon": "terizla/terizla-icon.png"
   },
   {
     "id": 83,
@@ -3912,7 +3994,8 @@
         "description_html": "X.Borg charges in the target direction while spinning and spraying flames (cannot pick up Firaga Supplies during this time), dealing 90<font color=\"fba51f\"> (+60% Extra Physical Attack)</font> <font color=\"62f8fe\">(+45% Total Magic Power)</font> <font color=\"fb1f1f\">Physical Damage</font> 14 times and slowing enemies hit by 25%. He stops upon running into an enemy hero and will slow them by an additional 40%. After 3s, X.Borg's Firaga Armor detonates, dealing 300 plus 15% of the target's Max HP as <font color=\"ffe63c\">True Damage</font>. If his armor is destroyed before it can self-detonate, it will only deal 50% of the damage. The detonation destroys his Firaga Armor, removes all debuffs, and collects all nearby Firaga Supplies.<br><br><font color=\"a6aafb\">Use Again</font>: X.Borg stops spraying fire and immediately detonates his Firaga Armor."
       }
     ],
-    "quote": "An uncontrollable flame that's determined to take revenge against Eruditio."
+    "quote": "An uncontrollable flame that's determined to take revenge against Eruditio.",
+    "icon": "xborg/xborg-icon.png"
   },
   {
     "id": 84,
@@ -3959,7 +4042,8 @@
         "description_html": "Ling leaps into the air, becoming invincible and gaining 10% extra Movement Speed for 1.5s. He ignores obstacles when in the air. He then lands on the ground, dealing 250<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in the area and slowing them by 40% for 1.5s, knocking those in the center airborne for 1s, and creating a Sword Field for 8s.<br><br>Four <font color=\"a6aafb\">Tempest of Blades</font> will also appear on the edge of the Sword Field. Ling can touch them to reduce the cooldown of <font color=\"a6aafb\">Finch Poise</font> by 4s, reset the cooldown of <font color=\"a6aafb\">Defiant Sword</font>, and gain 25 Lightness Points."
       }
     ],
-    "quote": "A graceful, free-soaring Finch and the Oriental Fighter who inherited the Vermilion Bird's power."
+    "quote": "A graceful, free-soaring Finch and the Oriental Fighter who inherited the Vermilion Bird's power.",
+    "icon": "ling/ling-icon.png"
   },
   {
     "id": 85,
@@ -4007,7 +4091,8 @@
         "description_html": "After a short delay, Dyrroth launches a destructive strike in the target direction (this skill can only be interrupted by Suppression), dealing 650<font color=\"fba51f\"> (+250% Extra Physical Attack)</font> plus 20% of the target's lost HP as <font color=\"fb1f1f\">Physical Damage</font> to enemies in its path, and slowing them by 55% for 0.8s. This skill deals up to 1500 damage to non-hero enemies."
       }
     ],
-    "quote": "Prince of the Empire who was kidnapped and used by the Abyss."
+    "quote": "Prince of the Empire who was kidnapped and used by the Abyss.",
+    "icon": "dyrroth/dyrroth-icon.png"
   },
   {
     "id": 86,
@@ -4055,7 +4140,8 @@
         "description_html": "Lylia returns to the Black Shoes' location 4s ago and restores her HP and Mana to the previous state, and an extra 10% Max HP. She also gains 20% extra Movement Speed for 2s."
       }
     ],
-    "quote": "A funny and witted little witch."
+    "quote": "A funny and witted little witch.",
+    "icon": "lylia/lylia-icon.png"
   },
   {
     "id": 87,
@@ -4103,7 +4189,8 @@
         "description_html": "Baxia holds his shield to the front and begins sprinting frantically, gaining 30% extra Movement Speed for 10s while leaving a lava path behind. Enemies on the path will take 40<font color=\"62f8fe\"> (+30% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and be slowed by 15% for 0.5s every 0.5s.<br>For the duration, the Damage Reduction effect from <font color=\"a6aafb\">Baxia Mark</font> is increased to 200%."
       }
     ],
-    "quote": "The Mystic Tortoise of the Oriental Fighters, a shield-wielding, unstoppable wheel of flames."
+    "quote": "The Mystic Tortoise of the Oriental Fighters, a shield-wielding, unstoppable wheel of flames.",
+    "icon": "baxia/baxia-icon.png"
   },
   {
     "id": 88,
@@ -4160,7 +4247,8 @@
         "description_html": "Masha gains Energy when dealing damage to enemies and extra Energy when dealing damage with Wild Power.<br><br>After leaving combat for 3s, Masha can activate this skill to spend half a full bar of Energy to recover a full HP bar. Masha is invincible while casting this skill."
       }
     ],
-    "quote": "Guardian of the Direbears."
+    "quote": "Guardian of the Direbears.",
+    "icon": "masha/masha-icon.png"
   },
   {
     "id": 89,
@@ -4207,7 +4295,8 @@
         "description_html": "Wanwan leaps into the air and fires arrows at the target enemy hero for 2.5s in rapid succession, dealing 60<font color=\"fba51f\"> (+35% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> per arrow. If the target is killed during this attack, Wanwan will switch to another enemy hero in her attack range, gain 30% Attack Speed, and extend the skill duration by 1s (this effect can trigger up to 3 times). Wanwan is untargetable and invincible for the duration and can trigger <font color=\"a6aafb\">Tiger Pace</font> upon killing an enemy and at the end of the duration.<br><font color=\"a6aafb\">Crossbow of Tang</font> can only be cast on enemy heroes with all their weaknesses hit and Wanwan gains 100% Movement Speed during the duration. This damage is regarded as Basic Attack damage, and the firing rate scales with Wanwan's Attack Speed."
       }
     ],
-    "quote": "The Agile Tiger of the Oriental Fighters and a lively young girl who wields the Crossbow of Tang."
+    "quote": "The Agile Tiger of the Oriental Fighters and a lively young girl who wields the Crossbow of Tang.",
+    "icon": "wanwan/wanwan-icon.png"
   },
   {
     "id": 90,
@@ -4255,7 +4344,8 @@
         "description_html": "Silvanna leaps to the target location and creates a Circle of Light upon landing, dealing 350<font color=\"62f8fe\"> (+110% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in the area, slowing them by 40% for 1.5s, and restraining the closest enemy hero to the area for 3.5s. (This skill cannot be interrupted.)<br><br>Silvanna gains 100% Attack Speed and 40% Lifesteal when in the Circle."
       }
     ],
-    "quote": "Princess of the Moniyan Empire and queen regent."
+    "quote": "Princess of the Moniyan Empire and queen regent.",
+    "icon": "silvanna/silvanna-icon.png"
   },
   {
     "id": 91,
@@ -4312,7 +4402,8 @@
         "description_html": "When Carmilla is nearby, Cecilion can summon her to become a Vermil Shadow around him, granting him a 520-800 shield (scales with Carmilla's level).<br>Carmilla can choose to leave Cecilion and charge at the target location, gaining an equal shield while dealing 520-800 <font color=\"7f62fe\">Magic Damage</font> (scales with level) to nearby enemies and slowing them by 30% for 1s."
       }
     ],
-    "quote": "Carmilla's Blood Demon lover."
+    "quote": "Carmilla's Blood Demon lover.",
+    "icon": "cecilion/cecilion-icon.png"
   },
   {
     "id": 92,
@@ -4359,7 +4450,8 @@
         "description_html": "Carmilla casts Curse of Blood on the target location, slowing enemies hit by 50%. After 0.8s, enemies still within the area will take 450<font color=\"62f8fe\"> (+130% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>, and will be immobilized for 1s, slowed by 30% and linked for 5s.<br><br>When a linked enemy takes damage or becomes controlled, all the other linked targets take 50% of the damage and become controlled for 100% of the duration. Enemies can move away from one another to break the link."
       }
     ],
-    "quote": "The girl who became a Blood Demon for love."
+    "quote": "The girl who became a Blood Demon for love.",
+    "icon": "carmilla/carmilla-icon.png"
   },
   {
     "id": 93,
@@ -4406,7 +4498,8 @@
         "description_html": "Atlas hurls chains around and starts to channel (can only be interrupted by suppressing), dealing 225<font color=\"62f8fe\"> (+75% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemy heroes hit and slowing them by 40% for 3s.<br>Use this skill again while channeling: Atlas will drag the targets toward him and plunk them down on the designated location, dealing 360<font color=\"62f8fe\"> (+180% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.<br>Use this skill in <font color=\"a6aafb\">Ejected State</font>: The Mecha Sentry will return to Atlas immediately, but the stun effect will be replaced by 40% Slowing Effect."
       }
     ],
-    "quote": "Abysmal Sea creature who broke free from the seal."
+    "quote": "Abysmal Sea creature who broke free from the seal.",
+    "icon": "atlas/atlas-icon.png"
   },
   {
     "id": 94,
@@ -4462,7 +4555,8 @@
         "description_html": "Popol and Kupa enter the Enraged state for 12s, gaining 15% extra Movement Speed and increasing their Attack Speed to 1.3 times.<br>Kupa turns into <font color=\"a6aafb\">Alpha Wolf Form</font>, gaining 1500 extra Max HP, fully restoring its HP, while <font color=\"a6aafb\">enhancing</font> its other skills."
       }
     ],
-    "quote": "Boy and an Icefield Wolf, partners who understand each other well."
+    "quote": "Boy and an Icefield Wolf, partners who understand each other well.",
+    "icon": "popol_and_kupa/popol_and_kupa-icon.png"
   },
   {
     "id": 95,
@@ -4518,7 +4612,8 @@
         "description_html": "After channeling for 0.6s, Yu Zhong transforms into his Black Dragon Form. For up to 7s, he cannot use any skills but can move freely and will knock back enemy heroes in his path while dealing 180<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. He also gains 1000<font color=\"fba51f\"> (+200% Extra Physical Attack)</font> Max HP, becomes immune to control effects, and ignores obstacles in this form.<br>Upon exiting the Black Dragon Form, Yu Zhong enters <font color=\"a6aafb\">Dragonoid Form</font>, gaining increased range on all of his skills for 10s."
       }
     ],
-    "quote": "Yu Zhong, the reincarnation of the Black Dragon, intends to unify the Cadia Riverlands through conquest and usher in an era of prosperity."
+    "quote": "Yu Zhong, the reincarnation of the Black Dragon, intends to unify the Cadia Riverlands through conquest and usher in an era of prosperity.",
+    "icon": "yu_zhong/yu_zhong-icon.png"
   },
   {
     "id": 96,
@@ -4564,7 +4659,8 @@
         "description_html": "Luo Yi creates a Teleport Circle around herself and marks the target location (within 28 units) as its destination. After a 3s delay, allied heroes (including herself) within the Circle will be teleported to the location.<br><br><font color=\"a6aafb\">Passive</font>: Luo Yi's Cooldown Reduction is increased by 6%."
       }
     ],
-    "quote": "Seeking to revive an ancient past, she is the sole being who has mastered the secrets of Yin and Yang."
+    "quote": "Seeking to revive an ancient past, she is the sole being who has mastered the secrets of Yin and Yang.",
+    "icon": "luo_yi/luo_yi-icon.png"
   },
   {
     "id": 97,
@@ -4612,7 +4708,8 @@
         "description_html": "Benedetta clenches Alecto, dashes forward (Benedetta is untargetable during the dash), and performs a slash after a short delay, detonating the Sword Intent along the path. For 2.5s, the Sword Intent deals up to a total of 1560<font color=\"fba51f\"> (+1105% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies within and slows them by 50%."
       }
     ],
-    "quote": "Female warrior defending the Barren Lands against demon invasion."
+    "quote": "Female warrior defending the Barren Lands against demon invasion.",
+    "icon": "benedetta/benedetta-icon.png"
   },
   {
     "id": 98,
@@ -4659,7 +4756,8 @@
         "description_html": "Khaleed rides the sandstorm and charges toward a designated location, dealing 100<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies along the way and knocking them toward his destination. Khaleed is immune to control effects during this process.<br><br>Upon reaching the destination, Khaleed will smash the ground, dealing 450<font color=\"fba51f\"> (+160% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in the area and stunning them for 1s, and fully charge his <font color=\"a6aafb\">Desert Power</font>."
       }
     ],
-    "quote": "A sand-walking intrepid Clan leader."
+    "quote": "A sand-walking intrepid Clan leader.",
+    "icon": "khaleed/khaleed-icon.png"
   },
   {
     "id": 99,
@@ -4705,7 +4803,8 @@
         "description_html": "After a short delay, Detona charges in the target direction, dealing 120<font color=\"fba51f\"> (+70% Total Physical Attack)</font> <font color=\"26e407\">(+1.2% Total HP)</font> <font color=\"fb1f1f\">Physical Damage</font> to the first enemy hit, devouring and suppressing them for 1.2s before spitting them out. If the target hits an enemy hero or a wall after being spit out, the target will cause an explosion, they and nearby enemies will take an additional 180<font color=\"fba51f\"> (+105% Total Physical Attack)</font> <font color=\"26e407\">(+1.8% Total HP)</font> <font color=\"fb1f1f\">Physical Damage</font> and be stunned for 1s.<br>For the duration, Barats becomes immune to control effects. If the channeling is canceled, 60% of the skill cooldown will be refunded.<br><font color=\"a6aafb\">Passive</font>: Detona gains 4 stacks of <font color=\"a6aafb\">Big Guy</font> upon respawn."
       }
     ],
-    "quote": "Adventurer riding a dragon lizard."
+    "quote": "Adventurer riding a dragon lizard.",
+    "icon": "barats/barats-icon.png"
   },
   {
     "id": 100,
@@ -4752,7 +4851,8 @@
         "description_html": "Brody locks on all the targets within 8 unit(s), dealing 300<font color=\"fba51f\"> (+165% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to them. If the target has an <font color=\"a6aafb\">Abyss Mark</font>, all <font color=\"a6aafb\">Abyss Marks</font> will be reset, dealing <font color=\"fb1f1f\">Physical Damage</font> equal to 136<font color=\"fba51f\"> (+72% Extra Physical Attack)</font> plus 4% of the target's lost HP for each stack the target has."
       }
     ],
-    "quote": "Mysterious man whose right hand was corroded and who lost his memory."
+    "quote": "Mysterious man whose right hand was corroded and who lost his memory.",
+    "icon": "brody/brody-icon.png"
   },
   {
     "id": 101,
@@ -4800,7 +4900,8 @@
         "description_html": "Yve creates a Starfield that lasts 15s and gains a 400<font color=\"62f8fe\"> (+120% Total Magic Power)</font> Shield. Within the duration, you can Tap or Swipe the screen to attack up to 15 times.<br><font color=\"a6aafb\">Tap</font>: Deals 340<font color=\"62f8fe\"> (+120% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in the target area.<br><font color=\"a6aafb\">Swipe</font>: Deals 65<font color=\"62f8fe\"> (+10% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> every 0.45s to enemies in the target area for 2.7s and slows them by 50%.<br>Enemies leaving or entering the Starfield will be immobilized for 0.8s (only once against the same target).<br>Yve cannot be displaced while the Starfield is active, and the Starfield will remain even if Yve is controlled (except for Suppression)."
       }
     ],
-    "quote": "Keeper of the equilibrium of the universe."
+    "quote": "Keeper of the equilibrium of the universe.",
+    "icon": "yve/yve-icon.png"
   },
   {
     "id": 102,
@@ -4847,7 +4948,8 @@
         "description_html": "Mathilda applies a <font color=\"a6aafb\">Soul Mark</font> to the target enemy hero and circles around them for up to 3.5s, during which her wisps will fly into nearby enemies, each dealing 40<font color=\"62f8fe\"> (+15% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>. The Soul Mark will also slow the target by 15% and <font color=\"a6aafb\">Soul Bloom</font> will prioritize the target with Soul Mark.<br>Within the duration, Mathilda can select an area to dash to. At the end of the duration, she'll dash at the target with <font color=\"a6aafb\">Soul Mark</font>, dealing 320<font color=\"62f8fe\"> (+120% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> while knocking enemies in her path airborne for 0.6s, transferring the <font color=\"a6aafb\">Soul Mark</font> to the first enemy hero that she knocks airborne, and reducing the skill cooldown by 40%.<br>Mathilda gains Control Immunity and a 400<font color=\"62f8fe\"> (+160% Total Magic Power)</font> shield for the skill duration."
       }
     ],
-    "quote": "A brave girl who stands up and doesn't fear power."
+    "quote": "A brave girl who stands up and doesn't fear power.",
+    "icon": "mathilda/mathilda-icon.png"
   },
   {
     "id": 103,
@@ -4895,7 +4997,8 @@
         "description_html": "Paquito launches an elbow strike in the target direction, dealing 250<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit and knocking them back. He then throws a haymaker, dealing 300<font color=\"fba51f\"> (+90% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit and slowing them by 75% for 1s, as he darts backward.<br><br><font color=\"a6aafb\">Champ Stance</font>: Instead of a haymaker, Paquito launches an uppercut after the elbow strike, dealing 400<font color=\"fba51f\"> (+120% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit and knocking them airborne for 0.5s."
       }
     ],
-    "quote": "The hero who uses his two fists to protect hope and love."
+    "quote": "The hero who uses his two fists to protect hope and love.",
+    "icon": "paquito/paquito-icon.png"
   },
   {
     "id": 104,
@@ -4943,7 +5046,8 @@
         "description_html": "Gloo splits into <font color=\"a6aafb\">Goos</font> for 5s, during which it gains 25% extra Movement Speed, recovers 30<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"26e407\"> (+6% Extra Max HP)</font> Max HP per second, and deals 9 <font color=\"7f62fe\">Magic Damage</font> every 80%s to enemies it comes into contact with.<br><font color=\"a6aafb\">Grab, Grab</font>: Gloo attaches itself to the target enemy hero with max <font color=\"a6aafb\">Sticky</font> stacks for up to s, recovering  Max HP. For the duration, Gloo transfers  of the damage it receives (calculated before damage reduction; excluding damage from turrets) to its host, and its Basic Attacks deal  <font color=\"7f62fe\">Magic Damage</font>.<br><font color=\"a6aafb\">Go, Go</font>: Gloo leaves its host early.<br>Cooldown is lowered to 5s if the host dies while Gloo is still attached to it."
       }
     ],
-    "quote": "A mysterious creature that can split into many smaller ones."
+    "quote": "A mysterious creature that can split into many smaller ones.",
+    "icon": "gloo/gloo-icon.png"
   },
   {
     "id": 105,
@@ -4998,7 +5102,8 @@
         "description_html": "Having escaped battle for 3s, Beatrix can call for her butler Morgan to provide her with a backup weapons crate.<br>Beatrix must then choose two from the crate to serve as her primary and secondary weapons.<br>Her weapon selection is interrupted if she commits any action or is controlled during this period."
       }
     ],
-    "quote": "A confident inventor girl."
+    "quote": "A confident inventor girl.",
+    "icon": "beatrix/beatrix-icon.png"
   },
   {
     "id": 106,
@@ -5045,7 +5150,8 @@
         "description_html": "<font color=\"a6aafb\">Sinner</font>: <font color=\"a6aafb\">Demonic Force</font>, <font color=\"a6aafb\">Astaros Eye</font>, and <font color=\"a6aafb\">Dark Wave</font> can apply <font color=\"a6aafb\">Sinner's Mark</font> to the enemy hero hit.<br><br><font color=\"a6aafb\">Judgment</font>: Phoveus leaps into the air and smashes down with his monolith at the enemy hero with <font color=\"a6aafb\">Sinner's Mark</font>, dealing 250<font color=\"fba51f\"> (+100% Total Physical Attack)</font> plus extra <font color=\"fb1f1f\">Physical Damage</font> equal to 5% of the target's Max HP to enemies in the area while Phoveus recovers <font color=\"26e407\">50 plus 6% of his Lost HP</font>.<br><br><font color=\"A4AAC7\">The HP recovered is reduced by 80% when hitting multiple enemies</font>."
       }
     ],
-    "quote": "A former soldier from the border of the Empire who took on the chains of sin to defend his people."
+    "quote": "A former soldier from the border of the Empire who took on the chains of sin to defend his people.",
+    "icon": "phoveus/phoveus-icon.png"
   },
   {
     "id": 107,
@@ -5090,7 +5196,8 @@
         "description_html": "Natan summons a <font color=\"a6aafb\">Reverse-Clone</font> that lasts 10s at 6 units away. The <font color=\"a6aafb\">Reverse-Clone</font> copies his moves and attacks in reverse and inherits 35% of his Basic Attack and skill damage.<br><font color=\"a6aafb\">Use Again</font>: Natan switches places with the <font color=\"a6aafb\">Reverse-Clone</font>.<br><br>Each cast reduces other skills' remaining cooldowns by 50%. The <font color=\"a6aafb\">Reverse-Clone</font> will disappear if Natan is too far away."
       }
     ],
-    "quote": "The savior who travels through time and space."
+    "quote": "The savior who travels through time and space.",
+    "icon": "natan/natan-icon.png"
   },
   {
     "id": 108,
@@ -5137,7 +5244,8 @@
         "description_html": "<font color=\"a6aafb\">Passive:</font> Every time Undying Fury is upgraded, Aulus crafts a part for his axe in order. <font color=\"a6aafb\">Blade Craft:</font> His Basic Attacks deal 50 extra <font color=\"fb1f1f\">Physical Damage</font>. <font color=\"a6aafb\">Handle Craft:</font> Permanently increases his Attack Range by 65% and the range of <font color=\"a6aafb\">The Power of Axe</font>. <font color=\"a6aafb\">Hammer Craft:</font> Permanently increases his Physical Penetration by 20%.<br><br><font color=\"a6aafb\">Active:</font> Aulus raises his axe and smashes it to the ground (this skill can only be interrupted by Suppression), dealing 210<font color=\"fba51f\"> (+100% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in a line and slowing them by 90% for 0.5s. A burning trail that lasts for 5s is left on the ground, dealing 90<font color=\"fba51f\"> (+40% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies who walk on it every 0.5s and slowing them by 70%."
       }
     ],
-    "quote": "A Leonin warrior that fights to prove himself."
+    "quote": "A Leonin warrior that fights to prove himself.",
+    "icon": "aulus/aulus-icon.png"
   },
   {
     "id": 109,
@@ -5182,7 +5290,8 @@
         "description_html": "Aamon throws all shards at a designated enemy and slows them by 30% for 1.5s. After a short delay, the shards will fly to the enemy's location again, each dealing 90<font color=\"62f8fe\"> (+24% Total Magic Power)</font>-150<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.<br><br>The number of shards increases with Aamon's armor charges and the shards on the ground (8-25).<br>The damage dealt increases with the target's lost HP, to the max when the target's HP is below 30%. The same target takes less damage from subsequent attacks."
       }
     ],
-    "quote": "The aloof Duke of Castle Aberleen."
+    "quote": "The aloof Duke of Castle Aberleen.",
+    "icon": "aamon/aamon-icon.png"
   },
   {
     "id": 110,
@@ -5230,7 +5339,8 @@
         "description_html": "Valentina slows the target enemy hero by 70% for 0.5s and gains the ability to cast their <font color=\"a6aafb\">Ultimate</font>. Casting the enemy's <font color=\"a6aafb\">Ultimate</font> turns Valentina into the enemy hero's form and allows her to inherit their Basic Attack type for up to 12s. Her skills remain unchanged unless the enemy's <font color=\"a6aafb\">Ultimate</font> has a <font color=\"a6aafb\">Morph</font> effect.<br>The stolen <font color=\"a6aafb\">Ultimate</font>'s level will be equal to Valentina's <font color=\"a6aafb\">Ultimate</font> level and the Ultimate cooldown will be 120% of the target's Ultimate cooldown (but no lower than 10s). Valentina gains <font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"fba51f\">Physical Attack</font> for the duration if the enemy is a Physical Damage hero. This cannot be used on an enemy Valentina."
       }
     ],
-    "quote": "Former head of House Paxley who'd stop at nothing to revive her lover."
+    "quote": "Former head of House Paxley who'd stop at nothing to revive her lover.",
+    "icon": "valentina/valentina-icon.png"
   },
   {
     "id": 111,
@@ -5277,7 +5387,8 @@
         "description_html": "<font color=\"a6aafb\">Passive:</font> When inside Phylax, Edith can accumulate Wrath according to the damage she receives (calculated before damage reduction).<br><br><font color=\"a6aafb\">Active:</font> Edith ejects herself forward from Phylax, knocking back nearby enemies. After that, she takes flight and can perform ranged Basic Attacks, each dealing 35<font color=\"fba51f\"> (+75% Total Physical Attack)</font> <font color=\"62f8fe\">(+25% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>. Edith also gains new skills in this state. When in flight, Edith gains 350<font color=\"26e407\"> (+5% Total HP)</font>-350<font color=\"26e407\"> (+20% Total HP)</font> extra Shield, 50%-150% extra Attack Speed and 5%-20% Hybrid Lifesteal based on the Wrath she accumulated, and converts each point of <font color=\"26e407\">Extra Physical Defense</font> and <font color=\"26e407\">Extra Magic Defense</font> into 3.5 <font color=\"62f8fe\">Magic Power</font>. The flight state lasts up to 8s."
       }
     ],
-    "quote": "Forsaken Warden with sealed memories."
+    "quote": "Forsaken Warden with sealed memories.",
+    "icon": "edith/edith-icon.png"
   },
   {
     "id": 112,
@@ -5323,7 +5434,8 @@
         "description_html": "Floryn resonates with Dew's power, recovering 250<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"26e407\">HP</font> for all allied heroes 2 times no matter where they are. This effect also increases their Shield and HP Regen effects by 12% for 2s."
       }
     ],
-    "quote": "A kind-hearted girl who is determined to spread greenery throughout the world."
+    "quote": "A kind-hearted girl who is determined to spread greenery throughout the world.",
+    "icon": "floryn/floryn-icon.png"
   },
   {
     "id": 113,
@@ -5370,7 +5482,8 @@
         "description_html": "After a short delay, Yin locks onto an enemy hero (<font color=\"a6aafb\">cannot lock onto pets or clones</font>) and pulls them into a domain for up to 8s and turns into <font color=\"a6aafb\">Lieh</font>. When in the domain, the two cannot be affected by other heroes' skills.<br><font color=\"a6aafb\">Lieh</font> has stronger skills and 50 extra <font color=\"26e407\">Physical &amp; Magic Defense</font> that last 8s.<br>The domain will end early if either of the two is killed. If <font color=\"a6aafb\">Lieh</font> successfully kills the enemy, he'll recover 20% of his Max HP, leave the domain with the cooldowns of <font color=\"a6aafb\">Frenzy Strike</font> and <font color=\"a6aafb\">Instant Blast</font> reset, and continue to fight as <font color=\"a6aafb\">Lieh</font> for 8s.<br>If Yin fails to pull his target into the domain, the skill will enter a 3s cooldown."
       }
     ],
-    "quote": "A young martial artist on a journey to defeat the Evil God that dwells within him."
+    "quote": "A young martial artist on a journey to defeat the Evil God that dwells within him.",
+    "icon": "yin/yin-icon.png"
   },
   {
     "id": 114,
@@ -5417,7 +5530,8 @@
         "description_html": "<font color=\"a6aafb\">Cuddles</font>, protect me! For 4 seconds, let no bad guys come close. Unless I say otherwise!<br><br>(When activated, the field knocks back enemies in the area and deals them 500<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>. It'll then continuously knock back enemies who attempt to enter the field, dealing them 50<font color=\"62f8fe\"> (+10% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and briefly slowing them. The field will also interrupt the enemy's movement skills unless they're immune to control effects. The field will move with Melissa once, when she's about to move out of the boundary.<br><font color=\"a6aafb\">Passive</font>: Melissa's Physical &amp; Magic Defense are increased by 3. This effect is increased to 5 times when the skill is active.)"
       }
     ],
-    "quote": "A girl with cursed needles who runs a tailor shop and solves problems for clients."
+    "quote": "A girl with cursed needles who runs a tailor shop and solves problems for clients.",
+    "icon": "melissa/melissa-icon.png"
   },
   {
     "id": 115,
@@ -5464,7 +5578,8 @@
         "description_html": "Xavier unleashes a beam of Mystic magic in the target direction, dealing 600<font color=\"62f8fe\"> (+180% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to all enemies along its path.<br><br>Once cast, he also directly enters the <font color=\"a6aafb\">Transcendence</font> state and resets the state's duration."
       }
     ],
-    "quote": "Former member of the Knights of Light who's determined to forge a path of his own."
+    "quote": "Former member of the Knights of Light who's determined to forge a path of his own.",
+    "icon": "xavier/xavier-icon.png"
   },
   {
     "id": 116,
@@ -5511,7 +5626,8 @@
         "description_html": "Julian casts chains at the target location, dealing 300<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit after a short delay and immobilizing them for 1.2s."
       }
     ],
-    "quote": "A Raven assassin of the Church of Light, a young boy who's in search of his home…"
+    "quote": "A Raven assassin of the Church of Light, a young boy who's in search of his home…",
+    "icon": "julian/julian-icon.png"
   },
   {
     "id": 117,
@@ -5568,7 +5684,8 @@
         "description_html": "Fredrinn slams his sword in the target direction (this skill can only be interrupted by Suppression), dealing 600 plus 21% of his <font color=\"a6aafb\">Crystal Energy</font> as <font color=\"fb1f1f\">Physical Damage</font> to enemies in a fan-shaped area after a short delay. Enemies in the center of the area take 175% damage. This skill doubles the conversion ratio based on damage dealt to enemy heroes from stored <font color=\"a6aafb\">Crystal Energy</font> to HP.<br>This skill costs 3 <font color=\"a6aafb\">Combo Points</font>."
       }
     ],
-    "quote": "A master treasure appraiser in Los Pecados accumulating wealth and searching for his lost friend."
+    "quote": "A master treasure appraiser in Los Pecados accumulating wealth and searching for his lost friend.",
+    "icon": "fredrinn/fredrinn-icon.png"
   },
   {
     "id": 118,
@@ -5615,7 +5732,8 @@
         "description_html": "Joy increases her Physical &amp; Magic Defense by 15<font color=\"62f8fe\"> (+10% Total Magic Power)</font> and gains 30% Movement Speed. Over the next 3s, she pulses 8 times, dealing 120<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> each time to nearby enemies.<br>Each <font color=\"a6aafb\">Meow, Rhythm of Joy!</font> cast on the beat increases this skill's damage by 40%. If perfect rhythm is achieved by hitting every beat with <font color=\"a6aafb\">Meow, Rhythm of Joy!</font>, Joy also gains 40% Spell Vamp while this skill is active.<br>This skill unlocks when Joy acquires <font color=\"a6aafb\">Beat Energy</font>. Casting this skill with 3 <font color=\"a6aafb\">Beat Energy</font> will remove all debuffs on Joy and make her immune to slow effects while this skill is active."
       }
     ],
-    "quote": "The \"Child of Miracle\" who returned to the Leonins after years of wandering."
+    "quote": "The \"Child of Miracle\" who returned to the Leonins after years of wandering.",
+    "icon": "joy/joy-icon.png"
   },
   {
     "id": 119,
@@ -5661,7 +5779,8 @@
         "description_html": "Novaria scatters <font color=\"a6aafb\">Astral Echo</font> in the target direction, briefly slowing enemy heroes hit by 50% while applying <font color=\"a6aafb\">Astral Ring</font> on them, increasing their hitbox by 2.5 times and revealing their surrounding area. This effect lasts 5s."
       }
     ],
-    "quote": "The young girl who seeks to rebuild the Star Atlas in order to solve the secrets of the Stars."
+    "quote": "The young girl who seeks to rebuild the Star Atlas in order to solve the secrets of the Stars.",
+    "icon": "novaria/novaria-icon.png"
   },
   {
     "id": 120,
@@ -5708,7 +5827,8 @@
         "description_html": "<font color=\"a6aafb\">Passive</font>: Each level-up reduces <font color=\"a6aafb\">Demon Gaze</font>'s interval by 1s.<br><font color=\"a6aafb\">Active</font>: Arlott cleaves in front of him, dealing 400<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to targets in the area while pushing them to the end of the AOE and briefly revealing their location (this skill can only be interrupted by Suppression)."
       }
     ],
-    "quote": "A demon human hybrid wielding two lances with a thirst for vengeance against both the Church and demons."
+    "quote": "A demon human hybrid wielding two lances with a thirst for vengeance against both the Church and demons.",
+    "icon": "arlott/arlott-icon.png"
   },
   {
     "id": 121,
@@ -5753,7 +5873,8 @@
         "description_html": "Ixia reassembles her weapon into 6 smaller weapons and enters the <font color=\"a6aafb\">Barrage</font> state for 4s. In this state, Ixia's Basic Attacks and skills can hit enemies in the large fan-shaped area in front of her but not outside it. Ixia's Basic Attacks can hit up to 6 enemy units (prioritizes heroes), and <font color=\"a6aafb\">Siphon Starlium</font> will fire simultaneously with her normal Basic Attacks."
       }
     ],
-    "quote": "The leader of Bad Soul and self-proclaimed inventor, she wields a homemade weapon powered by a stolen Starlium reactor."
+    "quote": "The leader of Bad Soul and self-proclaimed inventor, she wields a homemade weapon powered by a stolen Starlium reactor.",
+    "icon": "ixia/ixia-icon.png"
   },
   {
     "id": 122,
@@ -5797,7 +5918,8 @@
         "description_html": "Nolan slashes at the target location 3 times, dealing 120<font color=\"fba51f\"> (+50% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> with each slash while leaving 3 rifts and slowing the target hit by 30% for 0.5s. The rifts will be activated automatically while Nolan dashes backward."
       }
     ],
-    "quote": "A scholar that wanders the universe with split souls to save his daughter."
+    "quote": "A scholar that wanders the universe with split souls to save his daughter.",
+    "icon": "nolan/nolan-icon.png"
   },
   {
     "id": 123,
@@ -5842,7 +5964,8 @@
         "description_html": "Cici throws Yoyo at the target enemy hero and links them with another nearby enemy hero, dealing 100<font color=\"fba51f\"> (+10% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>, slowing them by 30%, and pulling them together for 4s. <br><br>During this time, Cici can use <font color=\"a6aafb\">Yo-Yo Blitz</font> to attack both linked targets at the same time. If only one target is within the range of <font color=\"a6aafb\">Yo-Yo Blitz</font>, Cici will attack the target twice, but the damage of the second attack will be reduced to 25%."
       }
     ],
-    "quote": "A cheerful performer who spreads fun and wonderment wherever she goes."
+    "quote": "A cheerful performer who spreads fun and wonderment wherever she goes.",
+    "icon": "cici/cici-icon.png"
   },
   {
     "id": 124,
@@ -5896,7 +6019,8 @@
         "description_html": "Chip has 4 fixed <font color=\"a6aafb\">Beacons</font> on the map when the battle starts. Use this skill to teleport to any other <font color=\"a6aafb\">Beacon</font>. (This skill cannot be used in combat.)"
       }
     ],
-    "quote": "A carefree, genetically enhanced fox that wields advanced portal technology."
+    "quote": "A carefree, genetically enhanced fox that wields advanced portal technology.",
+    "icon": "chip/chip-icon.png"
   },
   {
     "id": 125,
@@ -5943,7 +6067,8 @@
         "description_html": "Zhuxin blinks to the target location while gaining a 400<font color=\"62f8fe\"> (+100% Total Magic Power)</font> shield. While flying, she creates a field around her for 6s. The field deals 60<font color=\"62f8fe\"> (+20% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and applies 1 stack of <font color=\"a6aafb\">Soul Snare</font> to enemies every 1s."
       }
     ],
-    "quote": "A mysterious young woman who guides the ember butterflies using her Lantern of Spirits."
+    "quote": "A mysterious young woman who guides the ember butterflies using her Lantern of Spirits.",
+    "icon": "zhuxin/zhuxin-icon.png"
   },
   {
     "id": 126,
@@ -5990,7 +6115,8 @@
         "description_html": "<font color=\"a6aafb\">Tap</font>: Suyou glides backward and swings his weapon in the target direction, dealing 420<font color=\"fba51f\"> (+120% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in a rectangular area and on his path backward, and reducing their Movement Speed by 30% for 1.5s.<br><font color=\"a6aafb\">Hold</font>: Suyou uses the Immortal's power to shoot a deadly arrow in the target direction, dealing 580<font color=\"fba51f\"> (+165% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the target hit. The range increases with the hold time. <br><font color=\"A4AAC7\">Suyou can be controlled while charging, but the skill cannot be interrupted</font>."
       }
     ],
-    "quote": "An exorcist from Zhu'an who has inherited the power of the Immortal Nuo."
+    "quote": "An exorcist from Zhu'an who has inherited the power of the Immortal Nuo.",
+    "icon": "suyou/suyou-icon.png"
   },
   {
     "id": 127,
@@ -6037,7 +6163,8 @@
         "description_html": "Lukas transforms into his <font color=\"a6aafb\">Sacred Beast</font> form (briefly gaining Control Immunity). His base Movement Speed is increased by 30, all attributes are increased by 15%, and his skills gain new effects.<br><font color=\"a6aafb\">Use Again</font>: Fires a Shockwave Blast in the target direction that will explode upon hitting an enemy hero or reaching its maximum range, dealing 450<font color=\"fba51f\"> (+155% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and causing 3 aftershocks that each deal 0 <font color=\"fb1f1f\">Physical Damage</font>.<br><font color=\"A4AAC7\">All attributes: HP, Physical Attack, Attack Speed, Physical &amp; Magic Defense, and Attack Range.</font>"
       }
     ],
-    "quote": "A legendary Sacred Beast that can take the form of a rambunctious young man."
+    "quote": "A legendary Sacred Beast that can take the form of a rambunctious young man.",
+    "icon": "lukas/lukas-icon.png"
   },
   {
     "id": 128,
@@ -6082,7 +6209,8 @@
         "description_html": "Kalea grabs an enemy hero with her tail and slams them down in the Joystick's direction (drag the Joystick to change landing spot). She gains Control Immunity during this process. Upon landing, deals 300<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the target and nearby enemies."
       }
     ],
-    "quote": "With her serpent tail, this proud descendant of the Great Serpent swims gracefully through the Vonetis Sea, aspiring to one day carry the full power of her heritage."
+    "quote": "With her serpent tail, this proud descendant of the Great Serpent swims gracefully through the Vonetis Sea, aspiring to one day carry the full power of her heritage.",
+    "icon": "kalea/kalea-icon.png"
   },
   {
     "id": 129,
@@ -6130,6 +6258,7 @@
         "description_html": "Zetian calls upon her divine mandate and the hearts of her people, granting all allied heroes 40% Movement Speed that gradually decays over 3s, while bringing divine retribution upon all enemy heroes, dealing 400<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and stunning them for 0.8s. Zetian gains vision of all enemy heroes during this time.<br>Zetian can cast other skills while channeling this skill."
       }
     ],
-    "quote": "Recognized by the Heavens and cherished by her people, the Celestial Empress of the Cadia Riverlands ascends to bring peace to the mortal realm."
+    "quote": "Recognized by the Heavens and cherished by her people, the Celestial Empress of the Cadia Riverlands ascends to bring peace to the mortal realm.",
+    "icon": "zetian/zetian-icon.png"
   }
 ]

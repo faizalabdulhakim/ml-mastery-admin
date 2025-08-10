@@ -19,6 +19,7 @@ import HomeIcon from '@mui/icons-material/Home';
 import { usePathname, useRouter } from 'next/navigation';
 import { RiSwordFill } from "react-icons/ri";
 import { grey } from '@mui/material/colors';
+import { DrawerContext } from '@/src/context/DrawerContext';
 
 
 const drawerWidth = 240;
@@ -187,139 +188,141 @@ export default function MiniDrawer({children}) {
   }, [pathname]);
 
   return (
-    <Box sx={{ display: 'flex' }}>
-      <CssBaseline />
+    <DrawerContext.Provider value={{ open }}>
+      <Box sx={{ display: 'flex' }}>
+        <CssBaseline />
 
-      <AppBar 
-        position="fixed"
-        open={open} 
-        color='white' 
-        elevation={0}
-        sx={{borderBottom: `1px solid ${grey[400]}`}}
-      >
-        <Toolbar>
-          <IconButton
-            color="inherit"
-            aria-label="open drawer"
-            onClick={handleDrawerOpen}
-            edge="start"
-            sx={[
-              {
-                marginRight: 5,
-              },
-              open && { display: 'none' },
-            ]}
-          >
-            <MenuIcon />
-          </IconButton>
-          <MuiTypography variant="h6" noWrap component="div">
-            {appBar}
-          </MuiTypography>
-        </Toolbar>
-      </AppBar>
-
-      <Drawer 
-        variant="permanent" 
-        open={open}
-        sx={{
-          '& .MuiDrawer-paper': {borderRight: `1px solid ${grey[400]}`}
-        }}>
-        <DrawerHeader>
-          <MuiTypography
-            color="textPrimary"
-            marginLeft={2}
-            sx={{fontWeight: 600, fontSize: '15px', marginTop: '1px'}}
-          >
-              ML MASTERY ADMIN
-          </MuiTypography>
-          <IconButton onClick={handleDrawerClose} sx={[ !open && {display: 'none'} ]}>
-            {theme.direction === 'rtl' ? <ChevronRightIcon /> : <ChevronLeftIcon />}
-          </IconButton>
-        </DrawerHeader>
-
-        <List>
-          <ListItem sx={{display: 'block', pl: 1.5 }}>
-            <ListItemButton
-              onClick={() => router.push('/')}
-              sx={[ open ? { justifyContent: 'initial'} : { justifyContent: 'center'} ]}
-              isSelected={routes.isHome}
+        <AppBar 
+          position="fixed"
+          open={open} 
+          color='white' 
+          elevation={0}
+          sx={{borderBottom: `1px solid ${grey[300]}`}}
+        >
+          <Toolbar>
+            <IconButton
+              color="inherit"
+              aria-label="open drawer"
+              onClick={handleDrawerOpen}
+              edge="start"
+              sx={[
+                {
+                  marginRight: 5,
+                },
+                open && { display: 'none' },
+              ]}
             >
-              <ListItemIcon
+              <MenuIcon />
+            </IconButton>
+            <MuiTypography variant="h6" noWrap component="div">
+              {appBar}
+            </MuiTypography>
+          </Toolbar>
+        </AppBar>
+
+        <Drawer 
+          variant="permanent" 
+          open={open}
+          sx={{
+            '& .MuiDrawer-paper': {borderRight: `1px solid ${grey[300]}`}
+          }}>
+          <DrawerHeader>
+            <MuiTypography
+              color="textPrimary"
+              marginLeft={2}
+              sx={{fontWeight: 600, fontSize: '15px', marginTop: '1px'}}
+            >
+                ML MASTERY ADMIN
+            </MuiTypography>
+            <IconButton onClick={handleDrawerClose} sx={[ !open && {display: 'none'} ]}>
+              {theme.direction === 'rtl' ? <ChevronRightIcon /> : <ChevronLeftIcon />}
+            </IconButton>
+          </DrawerHeader>
+
+          <List>
+            <ListItem sx={{display: 'block', pl: 1.5 }}>
+              <ListItemButton
+                onClick={() => router.push('/')}
+                sx={[ open ? { justifyContent: 'initial'} : { justifyContent: 'center'} ]}
                 isSelected={routes.isHome}
-                sx={[
-                  open ? { mr: 2 } : { mr: 'auto'},
-                ]}
-                >
-                <HomeIcon />
-              </ListItemIcon>
+              >
+                <ListItemIcon
+                  isSelected={routes.isHome}
+                  sx={[
+                    open ? { mr: 2 } : { mr: 'auto'},
+                  ]}
+                  >
+                  <HomeIcon />
+                </ListItemIcon>
 
-              <ListItemText
-                primary={
-                  <Typography isSelected={routes.isHome}>
-                    Home
-                  </Typography>
-                }
-                sx={{ opacity: open ? 1 : 0, }}
-              />
-            </ListItemButton>
-          </ListItem>
+                <ListItemText
+                  primary={
+                    <Typography isSelected={routes.isHome}>
+                      Home
+                    </Typography>
+                  }
+                  sx={{ opacity: open ? 1 : 0, }}
+                />
+              </ListItemButton>
+            </ListItem>
 
-          <ListItem sx={{display: 'block', pl: 1.5 }}>
-            <ListItemButton
-              onClick={() => router.push('/hero')}
-              sx={[ open ? { justifyContent: 'initial'} : { justifyContent: 'center'} ]}
-              isSelected={routes.isHero}
-            >
-              <ListItemIcon
-                sx={[
-                  {
-                    minWidth: 0,
-                    justifyContent: 'center',
-                  },
-                  open ? { mr: 2 } : { mr: 'auto'},
-                  routes.isHero ? {color: '#3f51b5'} : ''
-                ]}
-                >
-                <RiSwordFill size={24}/>
-              </ListItemIcon>
+            <ListItem sx={{display: 'block', pl: 1.5 }}>
+              <ListItemButton
+                onClick={() => router.push('/hero')}
+                sx={[ open ? { justifyContent: 'initial'} : { justifyContent: 'center'} ]}
+                isSelected={routes.isHero}
+              >
+                <ListItemIcon
+                  sx={[
+                    {
+                      minWidth: 0,
+                      justifyContent: 'center',
+                    },
+                    open ? { mr: 2 } : { mr: 'auto'},
+                    routes.isHero ? {color: '#3f51b5'} : ''
+                  ]}
+                  >
+                  <RiSwordFill size={24}/>
+                </ListItemIcon>
 
-              <ListItemText
-                primary={
-                  <Typography isSelected={routes.isHero}>
-                    Hero
-                  </Typography>
-                }
-                sx={{ opacity: open ? 1 : 0, }}
-              />
-            </ListItemButton>
-          </ListItem>
-        </List>
-      </Drawer>
-
-      <Box
-        component="main"
-        sx={{
-            flexGrow: 1,
-            minHeight: '100vh',
-            display: 'flex',
-            flexDirection: 'column',
-          }}
-      >
-        <DrawerHeader />
+                <ListItemText
+                  primary={
+                    <Typography isSelected={routes.isHero}>
+                      Hero
+                    </Typography>
+                  }
+                  sx={{ opacity: open ? 1 : 0, }}
+                />
+              </ListItemButton>
+            </ListItem>
+          </List>
+        </Drawer>
 
         <Box
+          component="main"
           sx={{
-            flexGrow: 1,
-            padding: 3,
-            bgcolor: '#f0f1f7',
-            overflowY: 'auto',
-          }}
+              flexGrow: 1,
+              minHeight: '100vh',
+              display: 'flex',
+              flexDirection: 'column',
+            }}
         >
-          {children}
+          <DrawerHeader />
+
+          <Box
+            sx={{
+              flexGrow: 1,
+              padding: 3,
+              bgcolor: '#f0f1f7',
+              overflowY: 'auto'
+            }}
+          >
+            {children}
+          </Box>
         </Box>
+
+
       </Box>
-
-
-    </Box>
+    </DrawerContext.Provider>
   );
 }

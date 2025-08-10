@@ -6,18 +6,21 @@ import { Box } from "@mui/material"
 import { grey } from "@mui/material/colors"
 import { styled, useTheme } from '@mui/material/styles'
 import Link from 'next/link';
+import { useDrawer } from '@/src/context/DrawerContext';
 
-const HeroContainer = styled(Box)(({ theme }) => ({
-  height: 730,
-  display: 'grid',
-  gridTemplateColumns: 'repeat(12, 1fr)',
-  gridTemplateRows: 'repeat(10, 40px)',
+const HeroContainer = styled(Box, {
+  shouldForwardProp: (prop) => prop !== 'open'
+})(({ theme, open }) => ({
+  display: 'flex',
+  flexWrap: 'wrap',
   gap: 12
 }))
 
-const HeroItemContainer = styled(Link)(({ theme }) => ({
+const HeroItemContainer = styled(Link, {
+  shouldForwardProp: (prop) => prop !== 'open'
+})(({ theme, open }) => ({
   backgroundColor: theme.palette.primary[50],
-  width: 130,
+  width: open ? 140 : 130,
   height: 40,
   padding: theme.spacing(1),
   borderRadius: theme.shape.borderRadius * 1.2,
@@ -29,35 +32,36 @@ const HeroItemContainer = styled(Link)(({ theme }) => ({
 
 const HeroThumb = styled('img')(({ theme }) => ({
   width: 28,
-  height: 24,
-  borderRadius: theme.shape.borderRadius,
+  height: 28,
+  border: `1px solid ${theme.palette.primary[400]}`,
+  borderRadius: '100%',
   objectFit: 'cover',
-  objectPosition: '50% 20%',
-  border: `1px solid ${theme.palette.primary[100]}`,
-  imageRendering: 'auto'
 }))
 
 export default function Page() {
   const theme = useTheme();
+  const { open } = useDrawer()
 
   return (
     <Box
       sx={{
+        minHeight: 850,
         backgroundColor: 'white',
-        border: `1px solid ${grey[400]}`,
+        border: `1px solid ${grey[300]}`,
         padding: 2,
         borderRadius: 1
       }}
     >
       <Header />
-      <HeroContainer>
 
+      <HeroContainer open={open}>
       {
         heroes.map((hero, index) => (
           <HeroItemContainer
             key={index} 
-            href={`/hero/${hero.name.toLowerCase()}`}>
-            <HeroThumb src={`images/hero/${hero.image}`}/>
+            href={`/hero/${hero.name.toLowerCase()}`}
+            open={open}>
+            <HeroThumb src={`images/hero/${hero.icon}`}/>
 
             <Box component="p"
               sx={{
