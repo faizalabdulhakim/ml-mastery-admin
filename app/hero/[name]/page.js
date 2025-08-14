@@ -3,9 +3,10 @@
 import heroes from '@/src/data/heroes.json';
 import { useState } from 'react';
 import { useParams } from 'next/navigation';
-import { Box, styled, Typography } from '@mui/material';
+import { Box, Chip, styled, Typography } from '@mui/material';
 import theme from '@/src/theme';
 import { grey } from '@mui/material/colors';
+import { formatArrayWithCommas } from '@/utils/format';
 
 const TwoColumnContainer = styled(Box)(({ theme }) => ({
     display: 'grid',
@@ -75,12 +76,16 @@ export default function Page(){
 
                     <FieldLayout sx={{marginTop: 2}}>
                         <Label>ROLES</Label>
-                        <Field>Fighter</Field>
+                        <Field>
+                            {formatArrayWithCommas(hero.roles)}
+                        </Field>
                     </FieldLayout>
 
                     <FieldLayout sx={{marginTop: 2}}>
                         <Label>LANES</Label>
-                        <Field>Exp, Jungle</Field>
+                        <Field>
+                            {formatArrayWithCommas(hero.lanes)}
+                        </Field>
                     </FieldLayout>
                 </Box>
             </BasicInfoContainer>

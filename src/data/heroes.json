@@ -3,6 +3,12 @@
     "id": 1,
     "name": "Miya",
     "image": "miya/miya.png",
+    "roles": [
+      "Gold Lane"
+    ],
+    "lanes": [
+      "Marksman"
+    ],
     "skills": [
       {
         "image": "miya/skills/moon_blessing.png",
@@ -51,6 +57,13 @@
     "id": 2,
     "name": "Balmond",
     "image": "balmond/balmond.png",
+    "roles": [
+      "Jungle",
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "balmond/skills/bloodthirst.png",
@@ -98,6 +111,13 @@
     "id": 3,
     "name": "Saber",
     "image": "saber/saber.png",
+    "roles": [
+      "Jungle",
+      "Roam"
+    ],
+    "lanes": [
+      "Assassin"
+    ],
     "skills": [
       {
         "image": "saber/skills/enemys_bane.png",
@@ -145,6 +165,14 @@
     "id": 4,
     "name": "Alice",
     "image": "alice/alice.png",
+    "roles": [
+      "Exp Lane",
+      "Jungle"
+    ],
+    "lanes": [
+      "Mage",
+      "Tank"
+    ],
     "skills": [
       {
         "image": "alice/skills/blood_ancestry.png",
@@ -193,6 +221,12 @@
     "id": 5,
     "name": "Nana",
     "image": "nana/nana.png",
+    "roles": [
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Mage"
+    ],
     "skills": [
       {
         "image": "nana/skills/molinas_gift.png",
@@ -240,6 +274,12 @@
     "id": 6,
     "name": "Tigreal",
     "image": "tigreal/tigreal.png",
+    "roles": [
+      "Roam"
+    ],
+    "lanes": [
+      "Tank"
+    ],
     "skills": [
       {
         "image": "tigreal/skills/fearless.png",
@@ -288,6 +328,13 @@
     "id": 7,
     "name": "Alucard",
     "image": "alucard/alucard.png",
+    "roles": [
+      "Jungle"
+    ],
+    "lanes": [
+      "Fighter",
+      "Assassin"
+    ],
     "skills": [
       {
         "image": "alucard/skills/pursuit.png",
@@ -335,6 +382,12 @@
     "id": 8,
     "name": "Karina",
     "image": "karina/karina.png",
+    "roles": [
+      "Jungle"
+    ],
+    "lanes": [
+      "Assassin"
+    ],
     "skills": [
       {
         "image": "karina/skills/shadow_combo.png",
@@ -383,6 +436,12 @@
     "id": 9,
     "name": "Akai",
     "image": "akai/akai.png",
+    "roles": [
+      "Roam"
+    ],
+    "lanes": [
+      "Tank"
+    ],
     "skills": [
       {
         "image": "akai/skills/tai_chi.png",
@@ -430,6 +489,12 @@
     "id": 10,
     "name": "Franco",
     "image": "franco/franco.png",
+    "roles": [
+      "Roam"
+    ],
+    "lanes": [
+      "Tank"
+    ],
     "skills": [
       {
         "image": "franco/skills/wasteland_force.png",
@@ -477,6 +542,14 @@
     "id": 11,
     "name": "Bane",
     "image": "bane/bane.png",
+    "roles": [
+      "Jungle",
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Fighter",
+      "Mage"
+    ],
     "skills": [
       {
         "image": "bane/skills/shark_bite.png",
@@ -524,6 +597,12 @@
     "id": 12,
     "name": "Bruno",
     "image": "bruno/bruno.png",
+    "roles": [
+      "Gold Lane"
+    ],
+    "lanes": [
+      "Marksman"
+    ],
     "skills": [
       {
         "image": "bruno/skills/mecha_legs.png",
@@ -572,6 +651,12 @@
     "id": 13,
     "name": "Clint",
     "image": "clint/clint.png",
+    "roles": [
+      "Gold Lane"
+    ],
+    "lanes": [
+      "Marksman"
+    ],
     "skills": [
       {
         "image": "clint/skills/double_shot.png",
@@ -619,6 +704,12 @@
     "id": 14,
     "name": "Rafaela",
     "image": "rafaela/rafaela.png",
+    "roles": [
+      "Roam"
+    ],
+    "lanes": [
+      "Support"
+    ],
     "skills": [
       {
         "image": null,
@@ -667,6 +758,12 @@
     "id": 15,
     "name": "Eudora",
     "image": "eudora/eudora.png",
+    "roles": [
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Mage"
+    ],
     "skills": [
       {
         "image": "eudora/skills/superconductor.png",
@@ -713,6 +810,13 @@
     "id": 16,
     "name": "Zilong",
     "image": "zilong/zilong.png",
+    "roles": [
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Fighter",
+      "Assassin"
+    ],
     "skills": [
       {
         "image": "zilong/skills/dragon_flurry.png",
@@ -762,6 +866,12 @@
     "id": 17,
     "name": "Fanny",
     "image": "fanny/fanny.png",
+    "roles": [
+      "Jungle"
+    ],
+    "lanes": [
+      "Assassin"
+    ],
     "skills": [
       {
         "image": "fanny/skills/air_superiority.png",
@@ -808,6 +918,12 @@
     "id": 18,
     "name": "Layla",
     "image": "layla/layla.png",
+    "roles": [
+      "Gold Lane"
+    ],
+    "lanes": [
+      "Marksman"
+    ],
     "skills": [
       {
         "image": "layla/skills/malefic_gun.png",
@@ -856,6 +972,13 @@
     "id": 19,
     "name": "Minotaur",
     "image": "minotaur/minotaur.png",
+    "roles": [
+      "Roam"
+    ],
+    "lanes": [
+      "Tank",
+      "Support"
+    ],
     "skills": [
       {
         "image": "minotaur/skills/rage_incarnate.png",
@@ -903,6 +1026,13 @@
     "id": 20,
     "name": "Lolita",
     "image": "lolita/lolita.png",
+    "roles": [
+      "Roam"
+    ],
+    "lanes": [
+      "Support",
+      "Tank"
+    ],
     "skills": [
       {
         "image": "lolita/skills/noumenon_energy_core.png",
@@ -951,6 +1081,12 @@
     "id": 21,
     "name": "Hayabusa",
     "image": "hayabusa/hayabusa.png",
+    "roles": [
+      "Jungle"
+    ],
+    "lanes": [
+      "Assassin"
+    ],
     "skills": [
       {
         "image": "hayabusa/skills/ninjutsu_trace_of_shadow.png",
@@ -998,6 +1134,13 @@
     "id": 22,
     "name": "Freya",
     "image": "freya/freya.png",
+    "roles": [
+      "Exp Lane",
+      "Jungle"
+    ],
+    "lanes": [
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "freya/skills/power_of_einherjar.png",
@@ -1045,6 +1188,12 @@
     "id": 23,
     "name": "Gord",
     "image": "gord/gord.png",
+    "roles": [
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Mage"
+    ],
     "skills": [
       {
         "image": "gord/skills/mystic_favor.png",
@@ -1091,6 +1240,13 @@
     "id": 24,
     "name": "Natalia",
     "image": "natalia/natalia.png",
+    "roles": [
+      "Jungle",
+      "Roam"
+    ],
+    "lanes": [
+      "Assassin"
+    ],
     "skills": [
       {
         "image": "natalia/skills/assassin_instinct.png",
@@ -1138,6 +1294,12 @@
     "id": 25,
     "name": "Kagura",
     "image": "kagura/kagura.png",
+    "roles": [
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Mage"
+    ],
     "skills": [
       {
         "image": "kagura/skills/yin_yang_gathering.png",
@@ -1187,6 +1349,13 @@
     "id": 26,
     "name": "Chou",
     "image": "chou/chou.png",
+    "roles": [
+      "Exp Lane",
+      "Roam"
+    ],
+    "lanes": [
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "chou/skills/only_fast.png",
@@ -1234,6 +1403,13 @@
     "id": 27,
     "name": "Sun",
     "image": "sun/sun.png",
+    "roles": [
+      "Exp Lane",
+      "Jungle"
+    ],
+    "lanes": [
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "sun/skills/simian_god.png",
@@ -1292,6 +1468,13 @@
     "id": 28,
     "name": "Alpha",
     "image": "alpha/alpha.png",
+    "roles": [
+      "Jungle",
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "alpha/skills/beta_advance.png",
@@ -1341,6 +1524,12 @@
     "id": 29,
     "name": "Ruby",
     "image": "ruby/ruby.png",
+    "roles": [
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "ruby/skills/lets_dance.png",
@@ -1389,6 +1578,13 @@
     "id": 30,
     "name": "Yi Sun-shin",
     "image": "yi_sun_shin/yi_sun_shin.png",
+    "roles": [
+      "Jungle"
+    ],
+    "lanes": [
+      "Assassin",
+      "Marksman"
+    ],
     "skills": [
       {
         "image": "yi_sun_shin/skills/heavenly_vow.png",
@@ -1436,6 +1632,12 @@
     "id": 31,
     "name": "Moskov",
     "image": "moskov/moskov.png",
+    "roles": [
+      "Gold Lane"
+    ],
+    "lanes": [
+      "Marksman"
+    ],
     "skills": [
       {
         "image": "moskov/skills/spear_of_quiescence.png",
@@ -1484,6 +1686,13 @@
     "id": 32,
     "name": "Johnson",
     "image": "johnson/johnson.png",
+    "roles": [
+      "Roam"
+    ],
+    "lanes": [
+      "Tank",
+      "Support"
+    ],
     "skills": [
       {
         "image": "johnson/skills/electro_airbag.png",
@@ -1532,6 +1741,12 @@
     "id": 33,
     "name": "Cyclops",
     "image": "cyclops/cyclops.png",
+    "roles": [
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Mage"
+    ],
     "skills": [
       {
         "image": "cyclops/skills/starlit_hourglass.png",
@@ -1578,6 +1793,12 @@
     "id": 34,
     "name": "Estes",
     "image": "estes/estes.png",
+    "roles": [
+      "Roam"
+    ],
+    "lanes": [
+      "Support"
+    ],
     "skills": [
       {
         "image": "estes/skills/scripture_of_the_moon_elf.png",
@@ -1626,6 +1847,14 @@
     "id": 35,
     "name": "Hilda",
     "image": "hilda/hilda.png",
+    "roles": [
+      "Roam",
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Fighter",
+      "Tank"
+    ],
     "skills": [
       {
         "image": "hilda/skills/blessing_of_wilderness.png",
@@ -1674,6 +1903,12 @@
     "id": 36,
     "name": "Aurora",
     "image": "aurora/aurora.png",
+    "roles": [
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Mage"
+    ],
     "skills": [
       {
         "image": "aurora/skills/pride_of_ice.png",
@@ -1722,6 +1957,12 @@
     "id": 37,
     "name": "Lapu-Lapu",
     "image": "lapu_lapu/lapu_lapu.png",
+    "roles": [
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "lapu_lapu/skills/homeland_defender.png",
@@ -1770,6 +2011,12 @@
     "id": 38,
     "name": "Vexana",
     "image": "vexana/vexana.png",
+    "roles": [
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Mage"
+    ],
     "skills": [
       {
         "image": "vexana/skills/nether_touch.png",
@@ -1817,6 +2064,13 @@
     "id": 39,
     "name": "Roger",
     "image": "roger/roger.png",
+    "roles": [
+      "Jungle"
+    ],
+    "lanes": [
+      "Fighter",
+      "Marksman"
+    ],
     "skills": [
       {
         "image": "roger/skills/full_moon_curse.png",
@@ -1864,6 +2118,12 @@
     "id": 40,
     "name": "Karrie",
     "image": "karrie/karrie.png",
+    "roles": [
+      "Gold Lane"
+    ],
+    "lanes": [
+      "Marksman"
+    ],
     "skills": [
       {
         "image": "karrie/skills/lightwheel_mark.png",
@@ -1912,6 +2172,14 @@
     "id": 41,
     "name": "Gatotkaca",
     "image": "gatotkaca/gatotkaca.png",
+    "roles": [
+      "Roam",
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Tank",
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "gatotkaca/skills/steel_bones.png",
@@ -1961,6 +2229,13 @@
     "id": 42,
     "name": "Harley",
     "image": "harley/harley.png",
+    "roles": [
+      "Jungle"
+    ],
+    "lanes": [
+      "Assassin",
+      "Mage"
+    ],
     "skills": [
       {
         "image": "harley/skills/magic_master.png",
@@ -2009,6 +2284,12 @@
     "id": 43,
     "name": "Irithel",
     "image": "irithel/irithel.png",
+    "roles": [
+      "Gold Lane"
+    ],
+    "lanes": [
+      "Marksman"
+    ],
     "skills": [
       {
         "image": "irithel/skills/jungle_heart.png",
@@ -2057,6 +2338,13 @@
     "id": 44,
     "name": "Grock",
     "image": "grock/grock.png",
+    "roles": [
+      "Roam"
+    ],
+    "lanes": [
+      "Tank",
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "grock/skills/earthen_force.png",
@@ -2105,6 +2393,12 @@
     "id": 45,
     "name": "Argus",
     "image": "argus/argus.png",
+    "roles": [
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "argus/skills/warmonger.png",
@@ -2153,6 +2447,12 @@
     "id": 46,
     "name": "Odette",
     "image": "odette/odette.png",
+    "roles": [
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Mage"
+    ],
     "skills": [
       {
         "image": "odette/skills/lakeshore_ambience.png",
@@ -2201,6 +2501,12 @@
     "id": 47,
     "name": "Lancelot",
     "image": "lancelot/lancelot.png",
+    "roles": [
+      "Jungle"
+    ],
+    "lanes": [
+      "Assassin"
+    ],
     "skills": [
       {
         "image": "lancelot/skills/soul_cutter.png",
@@ -2249,6 +2555,12 @@
     "id": 48,
     "name": "Diggie",
     "image": "diggie/diggie.png",
+    "roles": [
+      "Roam"
+    ],
+    "lanes": [
+      "Support"
+    ],
     "skills": [
       {
         "image": "diggie/skills/young_again.png",
@@ -2297,6 +2609,12 @@
     "id": 49,
     "name": "Hylos",
     "image": "hylos/hylos.png",
+    "roles": [
+      "Roam"
+    ],
+    "lanes": [
+      "Tank"
+    ],
     "skills": [
       {
         "image": "hylos/skills/thickened_blood.png",
@@ -2345,6 +2663,12 @@
     "id": 50,
     "name": "Zhask",
     "image": "zhask/zhask.png",
+    "roles": [
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Mage"
+    ],
     "skills": [
       {
         "image": "zhask/skills/decimation.png",
@@ -2402,6 +2726,12 @@
     "id": 51,
     "name": "Helcurt",
     "image": "helcurt/helcurt.png",
+    "roles": [
+      "Jungle"
+    ],
+    "lanes": [
+      "Assassin"
+    ],
     "skills": [
       {
         "image": "helcurt/skills/shadow_of_styx.png",
@@ -2449,6 +2779,12 @@
     "id": 52,
     "name": "Pharsa",
     "image": "pharsa/pharsa.png",
+    "roles": [
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Mage"
+    ],
     "skills": [
       {
         "image": "pharsa/skills/spiritual_unity.png",
@@ -2506,6 +2842,13 @@
     "id": 53,
     "name": "Lesley",
     "image": "lesley/lesley.png",
+    "roles": [
+      "Gold Lane"
+    ],
+    "lanes": [
+      "Marksman",
+      "Assassin"
+    ],
     "skills": [
       {
         "image": "lesley/skills/lethal_shot.png",
@@ -2552,6 +2895,13 @@
     "id": 54,
     "name": "Jawhead",
     "image": "jawhead/jawhead.png",
+    "roles": [
+      "Roam",
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "jawhead/skills/mecha_suppression.png",
@@ -2599,6 +2949,12 @@
     "id": 55,
     "name": "Angela",
     "image": "angela/angela.png",
+    "roles": [
+      "Roam"
+    ],
+    "lanes": [
+      "Support"
+    ],
     "skills": [
       {
         "image": "angela/skills/smart_heart.png",
@@ -2647,6 +3003,12 @@
     "id": 56,
     "name": "Gusion",
     "image": "gusion/gusion.png",
+    "roles": [
+      "Jungle"
+    ],
+    "lanes": [
+      "Assassin"
+    ],
     "skills": [
       {
         "image": "gusion/skills/dagger_specialist.png",
@@ -2696,6 +3058,12 @@
     "id": 57,
     "name": "Valir",
     "image": "valir/valir.png",
+    "roles": [
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Mage"
+    ],
     "skills": [
       {
         "image": "valir/skills/ashing.png",
@@ -2745,6 +3113,12 @@
     "id": 58,
     "name": "Martis",
     "image": "martis/martis.png",
+    "roles": [
+      "Jungle"
+    ],
+    "lanes": [
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "martis/skills/asuras_wrath.png",
@@ -2793,6 +3167,12 @@
     "id": 59,
     "name": "Uranus",
     "image": "uranus/uranus.png",
+    "roles": [
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Tank"
+    ],
     "skills": [
       {
         "image": "uranus/skills/radiance.png",
@@ -2841,6 +3221,12 @@
     "id": 60,
     "name": "Hanabi",
     "image": "hanabi/hanabi.png",
+    "roles": [
+      "Gold Lane"
+    ],
+    "lanes": [
+      "Marksman"
+    ],
     "skills": [
       {
         "image": "hanabi/skills/ninjutsu_petal_barrage.png",
@@ -2888,6 +3274,12 @@
     "id": 61,
     "name": "Chang'e",
     "image": "change/change.png",
+    "roles": [
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Mage"
+    ],
     "skills": [
       {
         "image": "change/skills/trouble_maker.png",
@@ -2935,6 +3327,13 @@
     "id": 62,
     "name": "Kaja",
     "image": "kaja/kaja.png",
+    "roles": [
+      "Roam"
+    ],
+    "lanes": [
+      "Support",
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "kaja/skills/wrath_sanction.png",
@@ -2983,6 +3382,14 @@
     "id": 63,
     "name": "Selena",
     "image": "selena/selena.png",
+    "roles": [
+      "Mid Lane",
+      "Roam"
+    ],
+    "lanes": [
+      "Assassin",
+      "Mage"
+    ],
     "skills": [
       {
         "image": "selena/skills/symbiosis.png",
@@ -3031,6 +3438,12 @@
     "id": 64,
     "name": "Aldous",
     "image": "aldous/aldous.png",
+    "roles": [
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "aldous/skills/contract_transform.png",
@@ -3079,6 +3492,12 @@
     "id": 65,
     "name": "Claude",
     "image": "claude/claude.png",
+    "roles": [
+      "Gold Lane"
+    ],
+    "lanes": [
+      "Marksman"
+    ],
     "skills": [
       {
         "image": "claude/skills/battle_side_by_side.png",
@@ -3127,6 +3546,12 @@
     "id": 66,
     "name": "Vale",
     "image": "vale/vale.png",
+    "roles": [
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Mage"
+    ],
     "skills": [
       {
         "image": "vale/skills/windtalk.png",
@@ -3175,6 +3600,12 @@
     "id": 67,
     "name": "Leomord",
     "image": "leomord/leomord.png",
+    "roles": [
+      "Jungle"
+    ],
+    "lanes": [
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "leomord/skills/the_oath_keeper.png",
@@ -3223,6 +3654,12 @@
     "id": 68,
     "name": "Lunox",
     "image": "lunox/lunox.png",
+    "roles": [
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Mage"
+    ],
     "skills": [
       {
         "image": "lunox/skills/dreamland_twist.png",
@@ -3280,6 +3717,12 @@
     "id": 69,
     "name": "Hanzo",
     "image": "hanzo/hanzo.png",
+    "roles": [
+      "Jungle"
+    ],
+    "lanes": [
+      "Assassin"
+    ],
     "skills": [
       {
         "image": "hanzo/skills/ame_no_habakiri.png",
@@ -3327,6 +3770,12 @@
     "id": 70,
     "name": "Belerick",
     "image": "belerick/belerick.png",
+    "roles": [
+      "Roam"
+    ],
+    "lanes": [
+      "Tank"
+    ],
     "skills": [
       {
         "image": "belerick/skills/deadly_thorns.png",
@@ -3375,6 +3824,14 @@
     "id": 71,
     "name": "Kimmy",
     "image": "kimmy/kimmy.png",
+    "roles": [
+      "Gold Lane",
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Marksman",
+      "Mage"
+    ],
     "skills": [
       {
         "image": null,
@@ -3423,6 +3880,12 @@
     "id": 72,
     "name": "Thamuz",
     "image": "thamuz/thamuz.png",
+    "roles": [
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "thamuz/skills/grand_lord_lava.png",
@@ -3471,6 +3934,13 @@
     "id": 73,
     "name": "Harith",
     "image": "harith/harith.png",
+    "roles": [
+      "Gold Lane",
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Mage"
+    ],
     "skills": [
       {
         "image": "harith/skills/key_insight.png",
@@ -3518,6 +3988,13 @@
     "id": 74,
     "name": "Minsitthar",
     "image": "minsitthar/minsitthar.png",
+    "roles": [
+      "Exp Lane",
+      "Roam"
+    ],
+    "lanes": [
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "minsitthar/skills/mark_of_the_king.png",
@@ -3567,6 +4044,13 @@
     "id": 75,
     "name": "Kadita",
     "image": "kadita/kadita.png",
+    "roles": [
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Mage",
+      "Assassin"
+    ],
     "skills": [
       {
         "image": "kadita/skills/thalassophobia.png",
@@ -3615,6 +4099,13 @@
     "id": 76,
     "name": "Faramis",
     "image": "faramis/faramis.png",
+    "roles": [
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Support",
+      "Mage"
+    ],
     "skills": [
       {
         "image": "faramis/skills/vicious_retrieval.png",
@@ -3663,6 +4154,12 @@
     "id": 77,
     "name": "Badang",
     "image": "badang/badang.png",
+    "roles": [
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "badang/skills/chivalry_fist.png",
@@ -3712,6 +4209,12 @@
     "id": 78,
     "name": "Khufra",
     "image": "khufra/khufra.png",
+    "roles": [
+      "Roam"
+    ],
+    "lanes": [
+      "Tank"
+    ],
     "skills": [
       {
         "image": "khufra/skills/spell_curse.png",
@@ -3761,6 +4264,12 @@
     "id": 79,
     "name": "Granger",
     "image": "granger/granger.png",
+    "roles": [
+      "Gold Lane"
+    ],
+    "lanes": [
+      "Marksman"
+    ],
     "skills": [
       {
         "image": "granger/skills/capriccio.png",
@@ -3809,6 +4318,12 @@
     "id": 80,
     "name": "Guinevere",
     "image": "guinevere/guinevere.png",
+    "roles": [
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "guinevere/skills/super_magic.png",
@@ -3858,6 +4373,13 @@
     "id": 81,
     "name": "Esmeralda",
     "image": "esmeralda/esmeralda.png",
+    "roles": [
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Tank",
+      "Mage"
+    ],
     "skills": [
       {
         "image": "esmeralda/skills/starmoon_casket.png",
@@ -3907,6 +4429,13 @@
     "id": 82,
     "name": "Terizla",
     "image": "terizla/terizla.png",
+    "roles": [
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Fighter",
+      "Tank"
+    ],
     "skills": [
       {
         "image": "terizla/skills/body_of_smith.png",
@@ -3955,6 +4484,12 @@
     "id": 83,
     "name": "X.Borg",
     "image": "xborg/xborg.png",
+    "roles": [
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "xborg/skills/firaga_armor.png",
@@ -4001,6 +4536,12 @@
     "id": 84,
     "name": "Ling",
     "image": "ling/ling.png",
+    "roles": [
+      "Jungle"
+    ],
+    "lanes": [
+      "Assassin"
+    ],
     "skills": [
       {
         "image": "ling/skills/cloud_walker.png",
@@ -4049,6 +4590,13 @@
     "id": 85,
     "name": "Dyrroth",
     "image": "dyrroth/dyrroth.png",
+    "roles": [
+      "Exp Lane",
+      "Jungle"
+    ],
+    "lanes": [
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "dyrroth/skills/wrath_of_the_abyss.png",
@@ -4098,6 +4646,12 @@
     "id": 86,
     "name": "Lylia",
     "image": "lylia/lylia.png",
+    "roles": [
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Mage"
+    ],
     "skills": [
       {
         "image": "lylia/skills/angry_gloom.png",
@@ -4147,6 +4701,12 @@
     "id": 87,
     "name": "Baxia",
     "image": "baxia/baxia.png",
+    "roles": [
+      "Jungle"
+    ],
+    "lanes": [
+      "Tank"
+    ],
     "skills": [
       {
         "image": "baxia/skills/baxia_mark.png",
@@ -4196,6 +4756,13 @@
     "id": 88,
     "name": "Masha",
     "image": "masha/masha.png",
+    "roles": [
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Fighter",
+      "Tank"
+    ],
     "skills": [
       {
         "image": "masha/skills/ancient_strength.png",
@@ -4254,6 +4821,12 @@
     "id": 89,
     "name": "Wanwan",
     "image": "wanwan/wanwan.png",
+    "roles": [
+      "Gold Lane"
+    ],
+    "lanes": [
+      "Marksman"
+    ],
     "skills": [
       {
         "image": "wanwan/skills/tiger_pace.png",
@@ -4302,6 +4875,12 @@
     "id": 90,
     "name": "Silvanna",
     "image": "silvanna/silvanna.png",
+    "roles": [
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "silvanna/skills/knightess_resolve.png",
@@ -4351,6 +4930,12 @@
     "id": 91,
     "name": "Cecilion",
     "image": "cecilion/cecilion.png",
+    "roles": [
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Mage"
+    ],
     "skills": [
       {
         "image": "cecilion/skills/overflowing.png",
@@ -4409,6 +4994,13 @@
     "id": 92,
     "name": "Carmilla",
     "image": "carmilla/carmilla.png",
+    "roles": [
+      "Roam"
+    ],
+    "lanes": [
+      "Support",
+      "Tank"
+    ],
     "skills": [
       {
         "image": "carmilla/skills/vampire_pact.png",
@@ -4457,6 +5049,12 @@
     "id": 93,
     "name": "Atlas",
     "image": "atlas/atlas.png",
+    "roles": [
+      "Roam"
+    ],
+    "lanes": [
+      "Tank"
+    ],
     "skills": [
       {
         "image": "atlas/skills/frigid_breath.png",
@@ -4505,6 +5103,13 @@
     "id": 94,
     "name": "Popol and Kupa",
     "image": "popol_and_kupa/popol_and_kupa.png",
+    "roles": [
+      "Jungle",
+      "Gold Lane"
+    ],
+    "lanes": [
+      "Marksman"
+    ],
     "skills": [
       {
         "image": "popol_and_kupa/skills/we_are_friends.png",
@@ -4562,6 +5167,12 @@
     "id": 95,
     "name": "Yu Zhong",
     "image": "yu_zhong/yu_zhong.png",
+    "roles": [
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "yu_zhong/skills/cursing_touch.png",
@@ -4619,6 +5230,12 @@
     "id": 96,
     "name": "Luo Yi",
     "image": "luo_yi/luo_yi.png",
+    "roles": [
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Mage"
+    ],
     "skills": [
       {
         "image": "luo_yi/skills/duality.png",
@@ -4666,6 +5283,13 @@
     "id": 97,
     "name": "Benedetta",
     "image": "benedetta/benedetta.png",
+    "roles": [
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Assassin",
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "benedetta/skills/elapsed_daytime.png",
@@ -4715,6 +5339,13 @@
     "id": 98,
     "name": "Khaleed",
     "image": "khaleed/khaleed.png",
+    "roles": [
+      "Exp Lane",
+      "Roam"
+    ],
+    "lanes": [
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "khaleed/skills/sand_walk.png",
@@ -4763,6 +5394,13 @@
     "id": 99,
     "name": "Barats",
     "image": "barats/barats.png",
+    "roles": [
+      "Jungle"
+    ],
+    "lanes": [
+      "Tank",
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "barats/skills/big_guy.png",
@@ -4810,6 +5448,12 @@
     "id": 100,
     "name": "Brody",
     "image": "brody/brody.png",
+    "roles": [
+      "Gold Lane"
+    ],
+    "lanes": [
+      "Marksman"
+    ],
     "skills": [
       {
         "image": "brody/skills/abyss_corrosion.png",
@@ -4858,6 +5502,12 @@
     "id": 101,
     "name": "Yve",
     "image": "yve/yve.png",
+    "roles": [
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Mage"
+    ],
     "skills": [
       {
         "image": "yve/skills/galactic_power.png",
@@ -4907,6 +5557,13 @@
     "id": 102,
     "name": "Mathilda",
     "image": "mathilda/mathilda.png",
+    "roles": [
+      "Roam"
+    ],
+    "lanes": [
+      "Support",
+      "Assassin"
+    ],
     "skills": [
       {
         "image": "mathilda/skills/ancestral_guidance.png",
@@ -4955,6 +5612,13 @@
     "id": 103,
     "name": "Paquito",
     "image": "paquito/paquito.png",
+    "roles": [
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Fighter",
+      "Assassin"
+    ],
     "skills": [
       {
         "image": "paquito/skills/champ_stance.png",
@@ -5004,6 +5668,13 @@
     "id": 104,
     "name": "Gloo",
     "image": "gloo/gloo.png",
+    "roles": [
+      "Exp Lane",
+      "Roam"
+    ],
+    "lanes": [
+      "Tank"
+    ],
     "skills": [
       {
         "image": "gloo/skills/stick_stick.png",
@@ -5053,6 +5724,12 @@
     "id": 105,
     "name": "Beatrix",
     "image": "beatrix/beatrix.png",
+    "roles": [
+      "Gold Lane"
+    ],
+    "lanes": [
+      "Marksman"
+    ],
     "skills": [
       {
         "image": "beatrix/skills/mechanical_genius.png",
@@ -5109,6 +5786,12 @@
     "id": 106,
     "name": "Phoveus",
     "image": "phoveus/phoveus.png",
+    "roles": [
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "phoveus/skills/demonic_force.png",
@@ -5157,6 +5840,12 @@
     "id": 107,
     "name": "Natan",
     "image": "natan/natan.png",
+    "roles": [
+      "Gold Lane"
+    ],
+    "lanes": [
+      "Marksman"
+    ],
     "skills": [
       {
         "image": "natan/skills/theory_of_everything.png",
@@ -5203,6 +5892,12 @@
     "id": 108,
     "name": "Aulus",
     "image": "aulus/aulus.png",
+    "roles": [
+      "Jungle"
+    ],
+    "lanes": [
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "aulus/skills/fighting_spirit.png",
@@ -5251,6 +5946,12 @@
     "id": 109,
     "name": "Aamon",
     "image": "aamon/aamon.png",
+    "roles": [
+      "Jungle"
+    ],
+    "lanes": [
+      "Assassin"
+    ],
     "skills": [
       {
         "image": "aamon/skills/invisible_armor.png",
@@ -5297,6 +5998,12 @@
     "id": 110,
     "name": "Valentina",
     "image": "valentina/valentina.png",
+    "roles": [
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Mage"
+    ],
     "skills": [
       {
         "image": "valentina/skills/primal_force.png",
@@ -5346,6 +6053,14 @@
     "id": 111,
     "name": "Edith",
     "image": "edith/edith.png",
+    "roles": [
+      "Exp Lane",
+      "Roam"
+    ],
+    "lanes": [
+      "Tank",
+      "Marksman"
+    ],
     "skills": [
       {
         "image": "edith/skills/overload.png",
@@ -5394,6 +6109,12 @@
     "id": 112,
     "name": "Floryn",
     "image": "floryn/floryn.png",
+    "roles": [
+      "Roam"
+    ],
+    "lanes": [
+      "Support"
+    ],
     "skills": [
       {
         "image": "floryn/skills/dew.png",
@@ -5441,6 +6162,14 @@
     "id": 113,
     "name": "Yin",
     "image": "yin/yin.png",
+    "roles": [
+      "Jungle",
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Fighter",
+      "Assassin"
+    ],
     "skills": [
       {
         "image": "yin/skills/leave_it_to_me.png",
@@ -5489,6 +6218,12 @@
     "id": 114,
     "name": "Melissa",
     "image": "melissa/melissa.png",
+    "roles": [
+      "Gold Lane"
+    ],
+    "lanes": [
+      "Marksman"
+    ],
     "skills": [
       {
         "image": "melissa/skills/doll_buster.png",
@@ -5537,6 +6272,12 @@
     "id": 115,
     "name": "Xavier",
     "image": "xavier/xavier.png",
+    "roles": [
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Mage"
+    ],
     "skills": [
       {
         "image": "xavier/skills/transcendence.png",
@@ -5585,6 +6326,13 @@
     "id": 116,
     "name": "Julian",
     "image": "julian/julian.png",
+    "roles": [
+      "Jungle"
+    ],
+    "lanes": [
+      "Assassin",
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "julian/skills/smiths_legacy.png",
@@ -5633,6 +6381,13 @@
     "id": 117,
     "name": "Fredrinn",
     "image": "fredrinn/fredrinn.png",
+    "roles": [
+      "Jungle"
+    ],
+    "lanes": [
+      "Fighter",
+      "Tank"
+    ],
     "skills": [
       {
         "image": "fredrinn/skills/crystalline_armor.png",
@@ -5691,6 +6446,12 @@
     "id": 118,
     "name": "Joy",
     "image": "joy/joy.png",
+    "roles": [
+      "Jungle"
+    ],
+    "lanes": [
+      "Assassin"
+    ],
     "skills": [
       {
         "image": "joy/skills/humph_joys_angry.png",
@@ -5739,6 +6500,12 @@
     "id": 119,
     "name": "Novaria",
     "image": "novaria/novaria.png",
+    "roles": [
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Mage"
+    ],
     "skills": [
       {
         "image": "novaria/skills/star_trail.png",
@@ -5786,6 +6553,13 @@
     "id": 120,
     "name": "Arlott",
     "image": "arlott/arlott.png",
+    "roles": [
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Fighter",
+      "Assassin"
+    ],
     "skills": [
       {
         "image": "arlott/skills/demon_gaze.png",
@@ -5834,6 +6608,12 @@
     "id": 121,
     "name": "Ixia",
     "image": "ixia/ixia.png",
+    "roles": [
+      "Gold Lane"
+    ],
+    "lanes": [
+      "Marksman"
+    ],
     "skills": [
       {
         "image": "ixia/skills/siphon_starlium.png",
@@ -5880,6 +6660,12 @@
     "id": 122,
     "name": "Nolan",
     "image": "nolan/nolan.png",
+    "roles": [
+      "Jungle"
+    ],
+    "lanes": [
+      "Assassin"
+    ],
     "skills": [
       {
         "image": "nolan/skills/dimensional_rift.png",
@@ -5925,6 +6711,12 @@
     "id": 123,
     "name": "Cici",
     "image": "cici/cici.png",
+    "roles": [
+      "Exp Lane"
+    ],
+    "lanes": [
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "cici/skills/performers_delight.png",
@@ -5971,6 +6763,13 @@
     "id": 124,
     "name": "Chip",
     "image": "chip/chip.png",
+    "roles": [
+      "Roam"
+    ],
+    "lanes": [
+      "Support",
+      "Tank"
+    ],
     "skills": [
       {
         "image": "chip/skills/snack_time.png",
@@ -6026,6 +6825,12 @@
     "id": 125,
     "name": "Zhuxin",
     "image": "zhuxin/zhuxin.png",
+    "roles": [
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Mage"
+    ],
     "skills": [
       {
         "image": "zhuxin/skills/crimson_butterflies.png",
@@ -6074,6 +6879,13 @@
     "id": 126,
     "name": "Suyou",
     "image": "suyou/suyou.png",
+    "roles": [
+      "Jungle"
+    ],
+    "lanes": [
+      "Assassin",
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "suyou/skills/transient_immortal.png",
@@ -6122,6 +6934,13 @@
     "id": 127,
     "name": "Lukas",
     "image": "lukas/lukas.png",
+    "roles": [
+      "Exp Lane",
+      "Jungle"
+    ],
+    "lanes": [
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "lukas/skills/heros_resolve.png",
@@ -6170,6 +6989,13 @@
     "id": 128,
     "name": "Kalea",
     "image": "kalea/kalea.png",
+    "roles": [
+      "Roam"
+    ],
+    "lanes": [
+      "Support",
+      "Fighter"
+    ],
     "skills": [
       {
         "image": "kalea/skills/surge_of_life.png",
@@ -6216,6 +7042,12 @@
     "id": 129,
     "name": "Zetian",
     "image": "zetian/zetian.png",
+    "roles": [
+      "Mid Lane"
+    ],
+    "lanes": [
+      "Mage"
+    ],
     "skills": [
       {
         "image": "zetian/skills/celestial_armament.png",
